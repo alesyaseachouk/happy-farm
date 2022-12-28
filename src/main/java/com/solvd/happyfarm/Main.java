@@ -10,11 +10,9 @@ import com.solvd.happyfarm.price.Price;
 import com.solvd.happyfarm.product.Egg;
 import com.solvd.happyfarm.product.Milk;
 import com.solvd.happyfarm.product.Wool;
-
 import java.math.BigDecimal;
 import java.time.LocalDate;
 import java.util.*;
-
 import static com.solvd.happyfarm.FarmUtils.annualCostEggs;
 import static com.solvd.happyfarm.FarmUtils.annualCostMilk;
 
@@ -87,27 +85,18 @@ public class Main {
 
         sheeps.forEach(sheep -> sheep.setWool(wool));
 
-
-
-
-
-
-
-//         добавляю в лист куриц
-//        создаю коров +лист set or map + овцы
-
         corn.annualNeeds();
 
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Введите количество яиц: ");
 
+        int number1 = sc.nextInt();
+        System.out.println("Количество яиц: " + number1 + " шт.");
 
-//        Scanner sc = new Scanner(System.in);
-//        System.out.println("Budget:");
-//
-//        int number = sc.nextInt();
-//
-//        System.out.println("Budget:" + number);
-//
-//        sc.close();
+        System.out.println("Введите количество молока: ");
+        int number2 = sc.nextInt();
+        System.out.println("Количество молока: " + number2 + " л.");
 
+        sc.close();
     }
 }

@@ -1,6 +1,5 @@
 package com.solvd.happyfarm.animal;
 
-import com.solvd.happyfarm.animal.Animal;
 import com.solvd.happyfarm.food.Food;
 import com.solvd.happyfarm.product.Wool;
 

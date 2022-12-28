@@ -1,7 +1,6 @@
 package com.solvd.happyfarm.product;
 
 import com.solvd.happyfarm.price.Price;
-
 import java.time.LocalDate;
 
 public abstract class Product {
