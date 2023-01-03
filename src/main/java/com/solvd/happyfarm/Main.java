@@ -13,8 +13,8 @@ import com.solvd.happyfarm.product.Wool;
 import java.math.BigDecimal;
 import java.time.LocalDate;
 import java.util.*;
-import static com.solvd.happyfarm.FarmUtils.annualCostEggs;
-import static com.solvd.happyfarm.FarmUtils.annualCostMilk;
+
+import static com.solvd.happyfarm.FarmUtils.*;
 
 public class Main {
 
@@ -56,8 +56,8 @@ public class Main {
         Wool wool = new Wool(LocalDate.of(2022,01, 22), LocalDate.of(2022,02,01),priceWool, 1.0f);
 
         Cow cow1 = new Cow(100, true, 1, hay);
-        Cow  cow2 = new Cow(102, true, 2, hay);
-        Cow  cow3 = new Cow(90, true, 1, hay);
+        Cow cow2 = new Cow(102, true, 2, hay);
+        Cow cow3 = new Cow(90, true, 1, hay);
 
         Set<Cow> cows = new HashSet<>();
         cows.add(cow1);
@@ -85,17 +85,23 @@ public class Main {
 
         sheeps.forEach(sheep -> sheep.setWool(wool));
 
+        annualCostWool(sheeps);
+
         corn.annualNeeds();
 
         Scanner sc = new Scanner(System.in);
-        System.out.println("Введите количество яиц: ");
 
+        System.out.println("Введите количество яиц: ");
         int number1 = sc.nextInt();
         System.out.println("Количество яиц: " + number1 + " шт.");
 
         System.out.println("Введите количество молока: ");
         int number2 = sc.nextInt();
         System.out.println("Количество молока: " + number2 + " л.");
+
+        System.out.println("Введите количество шерсти: ");
+        int number3 = sc.nextInt();
+        System.out.println("Количество шерсти: " + number3 + " л");
 
         sc.close();
     }

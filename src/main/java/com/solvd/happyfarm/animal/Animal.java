@@ -2,6 +2,8 @@ package com.solvd.happyfarm.animal;
 
 import com.solvd.happyfarm.food.Food;
 
+import java.math.BigDecimal;
+
 public abstract class Animal {
 
     private float weight;
