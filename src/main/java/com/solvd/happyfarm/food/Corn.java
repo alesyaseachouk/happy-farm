@@ -7,4 +7,9 @@ public class Corn extends Food {
     public Corn(String name, Double count, Price price) {
         super(name, count, price);
     }
+
+    @Override
+    public String toString() {
+        return "Corn{}";
+    }
 }

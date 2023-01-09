@@ -1,5 +1,7 @@
 package com.solvd.happyfarm.customer;
 
+import java.util.Objects;
+
 public class Customer {
 
     private String name;
@@ -34,5 +36,27 @@ public class Customer {
 
     public void setRegularly(Boolean regularly) {
         isRegularly = regularly;
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (!(o instanceof Customer)) return false;
+        Customer customer = (Customer) o;
+        return Objects.equals(getName(), customer.getName()) && Objects.equals(getCountry(), customer.getCountry()) && Objects.equals(isRegularly, customer.isRegularly);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(getName(), getCountry(), isRegularly);
+    }
+
+    @Override
+    public String toString() {
+        return "Customer{" +
+                "name='" + name + '\'' +
+                ", country='" + country + '\'' +
+                ", isRegularly=" + isRegularly +
+                '}';
     }
 }

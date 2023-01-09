@@ -1,11 +1,16 @@
 package com.solvd.happyfarm.product;
 
+import com.solvd.happyfarm.Main;
 import com.solvd.happyfarm.price.Price;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
 import java.time.LocalDate;
 import java.util.Objects;
 
 public class Egg extends com.solvd.happyfarm.product.Product {
+
+    private static final Logger LOGGER = LogManager.getLogger(Egg.class.getName());
 
     private String category;
     private int size;
@@ -14,6 +19,22 @@ public class Egg extends com.solvd.happyfarm.product.Product {
         super( manufactureDate, expirationDate, price);
         this.category = category;
         this.size = size;
+    }
+
+    public void wrap(String category, int size){
+        LOGGER.info("Egg was wrapped up in "+"");
+        if(category=="C") {
+            LOGGER.info("plastic");
+        }
+        else {
+            LOGGER.info("paper");
+        }
+        if (size<=1) {
+            LOGGER.info(" and big size package");
+        }
+        else {
+            LOGGER.info(" and small size package");
+        }
     }
 
     public String getCategory() {
