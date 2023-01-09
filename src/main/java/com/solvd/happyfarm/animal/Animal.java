@@ -1,8 +1,7 @@
 package com.solvd.happyfarm.animal;
 
+import com.solvd.happyfarm.exception.InvalidVaccinationException;
 import com.solvd.happyfarm.food.Food;
-
-import java.math.BigDecimal;
 
 public abstract class Animal {
 
@@ -11,9 +10,12 @@ public abstract class Animal {
     private int age;
     private Food food;
 
-    public Animal(float weight, boolean isVaccinated, int age, Food food) {
+    public Animal(float weight, boolean isVaccinated, int age, Food food) throws InvalidVaccinationException {
         this.weight = weight;
         this.isVaccinated = isVaccinated;
+        if(!isVaccinated){
+            throw new InvalidVaccinationException("This animal should be vaccinated. Please change data");
+        }
         this.age = age;
         this.food = food;
     }

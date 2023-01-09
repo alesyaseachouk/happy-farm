@@ -1,0 +1,23 @@
+2023-34-09 14:34:57.046 [main] INFO  com.solvd.happyfarm.Main - Enter Farm Budget: 
+2023-36-09 14:36:34.076 [main] INFO  com.solvd.happyfarm.Main - Farm Budget = 3456 BYN
+2023-36-09 14:36:34.076 [main] INFO  com.solvd.happyfarm.Main - ______________Products you can buy______________ 
+2023-36-09 14:36:34.076 [main] INFO  com.solvd.happyfarm.Main - 
+1 - Eggs 
+2 - Milk 
+3 - Wool 
+2023-36-09 14:36:34.077 [main] INFO  com.solvd.happyfarm.Main - Enter eggs count: 
+2023-36-09 14:36:46.079 [main] INFO  com.solvd.happyfarm.Main - Eggs count: 34
+2023-36-09 14:36:46.080 [main] INFO  com.solvd.happyfarm.Main - Enter milk volume: 
+2023-51-09 16:51:37.675 [main] INFO  com.solvd.happyfarm.Main - Enter Farm Budget: 
+2023-51-09 16:51:42.283 [main] INFO  com.solvd.happyfarm.Main - Farm Budget = 234 BYN
+2023-51-09 16:51:42.283 [main] INFO  com.solvd.happyfarm.Main - ______________Products you can buy______________ 
+2023-51-09 16:51:42.283 [main] INFO  com.solvd.happyfarm.Main - 
+1 - Eggs 
+2 - Milk 
+3 - Wool 
+2023-51-09 16:51:42.283 [main] INFO  com.solvd.happyfarm.Main - Enter eggs count: 
+2023-51-09 16:51:45.535 [main] INFO  com.solvd.happyfarm.Main - Eggs count: 4
+2023-51-09 16:51:45.535 [main] INFO  com.solvd.happyfarm.Main - Enter milk volume: 
+2023-51-09 16:51:46.551 [main] INFO  com.solvd.happyfarm.Main - Milk volume: 4
+2023-51-09 16:51:46.551 [main] INFO  com.solvd.happyfarm.Main - Enter wool volume: 
+2023-51-09 16:51:47.307 [main] INFO  com.solvd.happyfarm.Main - Wool volume: 4

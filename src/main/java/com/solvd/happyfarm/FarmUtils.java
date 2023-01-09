@@ -6,6 +6,8 @@ import com.solvd.happyfarm.animal.Sheep;
 import com.solvd.happyfarm.product.Egg;
 import com.solvd.happyfarm.product.Milk;
 import com.solvd.happyfarm.product.Wool;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
 import java.math.BigDecimal;
 import java.util.List;
@@ -13,6 +15,8 @@ import java.util.Set;
 import java.util.stream.Collectors;
 
 public class FarmUtils {
+
+    private static final Logger LOGGER = LogManager.getLogger(FarmUtils.class.getName());
 
     public static BigDecimal annualCostEggs(List<Chicken> chickens){
         List<Egg> allEggs = chickens.stream()
@@ -27,8 +31,8 @@ public class FarmUtils {
                 .map(Cow::getMilk)
                 .collect(Collectors.toList());
         BigDecimal annualCostMilk = BigDecimal.valueOf(365L * allMilk.size()).multiply(allMilk.get(0).getPrice().getValue());
-        System.out.println(annualCostMilk);
-        System.out.println(allMilk);
+        LOGGER.info(annualCostMilk);
+        LOGGER.info(allMilk);
         return annualCostMilk;
     }
 
@@ -39,4 +43,5 @@ public class FarmUtils {
         BigDecimal annualCostWool = BigDecimal.valueOf(365L * allWool.size()).multiply(allWool.get(0).getPrice().getValue());
         return annualCostWool;
     }
+
 }

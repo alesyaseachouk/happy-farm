@@ -8,4 +8,8 @@ public class Kombikorm extends Food {
         super(name, count, price);
     }
 
+    @Override
+    public String toString() {
+        return "Kombikorm{}";
+    }
 }
