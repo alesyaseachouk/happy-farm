@@ -88,14 +88,7 @@ public class Farm {
     @Override
     public String toString() {
         return "Farm{" +
-                "chickens=" + chickens +
-                ", cows=" + cows +
-                ", sheeps=" + sheeps +
-                ", customers=" + customers +
-                ", eggs=" + eggs +
-                ", milks=" + milks +
-                ", wools=" + wools +
-                ", budget=" + budget +
+                "chickens =" + chickens +
                 '}';
     }
 }
