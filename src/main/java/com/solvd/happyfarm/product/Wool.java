@@ -4,21 +4,21 @@ import com.solvd.happyfarm.price.Price;
 import java.time.LocalDate;
 import java.util.Objects;
 
-public class Wool extends com.solvd.happyfarm.product.Product {
+public class Wool extends Product {
 
-    private Float volume;
+    private float volume;
 
-    public Wool(LocalDate manufactureDate, LocalDate expirationDate, Price price, Float volume) {
+    public Wool(LocalDate manufactureDate, LocalDate expirationDate, Price price, float volume) {
         super(manufactureDate, expirationDate, price);
         this.volume = volume;
     }
 
-    public Float getWeight() {
+    public float getVolume() {
         return volume;
     }
 
-    public void setWeight(Float weight) {
-        this.volume = weight;
+    public void setVolume(float volume) {
+        this.volume = volume;
     }
 
     @Override

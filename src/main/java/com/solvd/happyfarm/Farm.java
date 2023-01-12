@@ -5,21 +5,31 @@ import com.solvd.happyfarm.animal.Cow;
 import com.solvd.happyfarm.animal.Sheep;
 import com.solvd.happyfarm.customer.Customer;
 import com.solvd.happyfarm.product.Egg;
-import com.solvd.happyfarm.product.Milk;
 import com.solvd.happyfarm.product.Wool;
 import java.util.List;
-import java.util.Set;
 
 public class Farm {
 
     private List<Chicken> chickens;
-    private Set<Cow> cows;
+    private List<Cow> cows;
     private List<Sheep> sheeps;
     private List<Customer> customers;
     private List<Egg> eggs;
-    private List<Milk> milks;
-    private List<Wool> wools;
+    private double milk;
+    private double wool;
     private int budget;
+
+    public Farm() {
+    }
+
+    public Farm(List<Chicken> chickens, List<Egg> eggs, List<Cow> cows, List<Sheep> sheeps, double milk, double wool ) {
+        this.chickens = chickens;
+        this.eggs = eggs;
+        this.cows = cows;
+        this.sheeps = sheeps;
+        this.milk = milk;
+        this.wool = wool;
+    }
 
     public List<Chicken> getChickens() {
         return chickens;
@@ -29,11 +39,11 @@ public class Farm {
         this.chickens = chickens;
     }
 
-    public Set<Cow> getCows() {
+    public List<Cow> getCows() {
         return cows;
     }
 
-    public void setCows(Set<Cow> cows) {
+    public void setCows(List<Cow> cows) {
         this.cows = cows;
     }
 
@@ -61,20 +71,20 @@ public class Farm {
         this.eggs = eggs;
     }
 
-    public List<Milk> getMilks() {
-        return milks;
+    public Double getMilk() {
+        return milk;
     }
 
-    public void setMilks(List<Milk> milks) {
-        this.milks = milks;
+    public void setMilk(Double milk) {
+        this.milk = milk;
     }
 
-    public List<Wool> getWools() {
-        return wools;
+    public double getWools() {
+        return wool;
     }
 
-    public void setWools(List<Wool> wools) {
-        this.wools = wools;
+    public void setWools(Wool wools) {
+        this.wool = wool;
     }
 
     public int getBudget() {
@@ -85,10 +95,14 @@ public class Farm {
         this.budget = budget;
     }
 
-    @Override
     public String toString() {
-        return "Farm{" +
-                "chickens =" + chickens +
-                '}';
-    }
+        return "Farm info: \n" +
+                " \n chickens = " + chickens +
+        "\n cows =" + cows +
+                "\n sheep =" + sheeps +
+                "\n Products created each day: " +
+                "\n eggs =" + eggs +
+                "\n milk =" + milk +
+        "wool =" + wool;
+        }
 }

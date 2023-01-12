@@ -1,75 +1,63 @@
 package com.solvd.happyfarm;
 
-import com.solvd.happyfarm.animal.Chicken;
-import com.solvd.happyfarm.animal.Cow;
-import com.solvd.happyfarm.animal.Sheep;
+import com.solvd.happyfarm.customer.Customer;
 import com.solvd.happyfarm.exception.InvalidVaccinationException;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-
 import java.util.*;
-
 import static com.solvd.happyfarm.FarmBuilder.*;
 
 public class Main {
 
     private static final Logger LOGGER = LogManager.getLogger(Main.class);
 
-    static void printMenu() {
-        LOGGER.info("\n1 - Eggs \n2 - Milk \n3 - Wool ");
-    }
 
     public static void main(String[] args) throws InvalidVaccinationException {
 
         Farm farm = new Farm();
-
         Scanner sc = new Scanner(System.in);
 
-        LOGGER.info("Enter Chickens Count: ");
-        int chickenCount = sc.nextInt();
-        LOGGER.info("Here are all farm chickens: " + chickenCount);
+        farm.setBudget(FarmBuilder.budgetBuilder(sc));
+        farm.setChickens(chickenBuilder(sc));
+        farm.setCows(cowBuilder(sc));
+        farm.setSheeps(sheepBuilder(sc));
 
-        List<Chicken> chickens = chickenBuilder(chickenCount);
-        chickens.forEach(chicken -> LOGGER.info(chicken));
+//        Milk milk = countMilkDay(cowBuilder(sc));
 
-        LOGGER.info("Enter Cows Count: ");
-        int cowCount = sc.nextInt();
-        LOGGER.info("Here are all farm cows: " + cowCount);
+        LOGGER.info("All farm animals: \n " + farm);
 
-        Set<Cow> cows = cowBuilder(cowCount);
-        cows.forEach(cow -> LOGGER.info(cow));
+        List<Customer> customers = FarmBuilder.customerBuilder(sc);
+        farm.setCustomers(customers);
 
-        LOGGER.info("Enter Sheep Count: ");
-        int sheepCount = sc.nextInt();
-        LOGGER.info("Here are all farm cows: " + sheepCount);
+        LOGGER.info(farm);
 
-        List<Sheep> sheeps = sheepBuilder(sheepCount);
-        sheeps.forEach(sheep -> LOGGER.info(sheep));
 
-//        LOGGER.info("Enter Farm Budget: ");
+//        List<Customer> regularlyCustomers = customers.stream()
+//                .filter(customer -> customer.getRegularly()==true)
+//                .collect(Collectors.toList());
 
-//        int budget = sc.nextInt();
-//        farm.setChickens(farm.getChickens());
-
-//        farm.setBudget(budget);
-
-//        LOGGER.info("Farm Budget = " + budget + " BYN");
-
-//        LOGGER.info("______________Products you can buy______________ ");
-//        printMenu();
+//        double volumeMilkDay = cows.get(0).getMilk().getVolume()*cows.size();
+//        farm.setMilk(volumeMilkDay);
 //
-//        LOGGER.info("Enter eggs count: ");
-//        int number1 = sc.nextInt();
-//        LOGGER.info("Eggs count: " + number1 );
-//
-//        LOGGER.info("Enter milk volume: ");
-//        int number2 = sc.nextInt();
-//        LOGGER.info("Milk volume: " + number2 );
-//
-//        LOGGER.info("Enter wool volume: ");
-//        int number3 = sc.nextInt();
-//        LOGGER.info("Wool volume: " + number3 );
+//        Wool wool = countWoolDay(sheeps);
+//        farm.setWools(wool);
 
+//        LOGGER.info("Hello, "+ regularlyCustomers.get(0).getName() + " how many products would you want to buy for today?");
+
+//        LOGGER.info("Enter Eggs Count: ");
+//        int eggCount = sc.nextInt();
+//        if (eggCount<=eggs.size()){
+//            LOGGER.info("You can buy these ");
+//            for (int i=0; i<eggCount; i++) {
+//                eggs.get(i)=null;
+//            }
+//            eggs = eggs.stream()
+//                    .filter(egg -> egg!=null)
+//                    .collect(Collectors.toList());
+//        } else {
+//            LOGGER.info("Sorry, we don't have enough eggs ");
+//        }
+//
         sc.close();
     }
 
