@@ -3,29 +3,38 @@ package com.solvd.happyfarm;
 import com.solvd.happyfarm.animal.Chicken;
 import com.solvd.happyfarm.animal.Cow;
 import com.solvd.happyfarm.animal.Sheep;
+import com.solvd.happyfarm.customer.Customer;
 import com.solvd.happyfarm.exception.InvalidVaccinationException;
 import com.solvd.happyfarm.food.Corn;
 import com.solvd.happyfarm.food.Hay;
 import com.solvd.happyfarm.food.Kombikorm;
 import com.solvd.happyfarm.price.Price;
+import com.solvd.happyfarm.product.CategoryEgg;
 import com.solvd.happyfarm.product.Egg;
 import com.solvd.happyfarm.product.Milk;
 import com.solvd.happyfarm.product.Wool;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
 import java.math.BigDecimal;
 import java.time.LocalDate;
 import java.util.*;
 
 public class FarmBuilder {
 
-    public static List<Chicken> chickenBuilder(int chickenCount) throws InvalidVaccinationException {
+    private static final Logger LOGGER = LogManager.getLogger(FarmBuilder.class);
 
+    public static List<Chicken> chickenBuilder(Scanner sc) throws InvalidVaccinationException {
+
+        LOGGER.info("Enter Chickens Count: ");
+        int chickenCount = sc.nextInt();
 
         Price priceCorn = new Price(BigDecimal.valueOf(0.5), "BYN");
         Corn corn = new Corn("Zarya",0.1, priceCorn);
         Price priceEgg = new Price(BigDecimal.valueOf(0.2), "BYN");
 
-        Egg egg1 = new Egg(LocalDate.of(2022,01,22),LocalDate.of(2022,02,22), priceEgg, "D", 2);
-        Egg egg2 = new Egg(LocalDate.of(2022,01,22),LocalDate.of(2022,02,22), priceEgg, "C", 1);
+        Egg egg1 = new Egg(LocalDate.of(2022,01,22),LocalDate.of(2022,02,22), priceEgg, CategoryEgg.D, 2);
+        Egg egg2 = new Egg(LocalDate.of(2022,01,22),LocalDate.of(2022,02,22), priceEgg, CategoryEgg.C, 1);
 
         List<Chicken> chickens = new ArrayList<>();
         for (int i = 0; i < chickenCount; i++) {
@@ -38,7 +47,10 @@ public class FarmBuilder {
         return chickens;
     }
 
-    public static Set<Cow> cowBuilder(int cowCount) throws InvalidVaccinationException {
+    public static List<Cow> cowBuilder(Scanner sc) throws InvalidVaccinationException {
+
+        LOGGER.info("Enter Cows Count: ");
+        int cowCount = sc.nextInt();
 
         Price priceHay = new Price(BigDecimal.valueOf(0.1), "BYN");
 
@@ -46,15 +58,15 @@ public class FarmBuilder {
 
         Price priceMilk = new Price(BigDecimal.valueOf(0.5), "BYN");
 
-        Milk milk1 = new Milk(LocalDate.of(2022,01, 22), LocalDate.of(2022,02,01),priceMilk, 1.0);
+        Milk milk1 = new Milk(LocalDate.of(2022,01, 22), LocalDate.of(2022,02,01),priceMilk, 4.5);
         Milk milk2 = new Milk(LocalDate.of(2022,01, 02), LocalDate.of(2022,02,11),priceMilk, 1.0);
 
-        Set<Cow> cows = new HashSet<>();
+        List<Cow> cows = new ArrayList<>();
         for (int i = 0; i < cowCount; i++) {
             Cow cow= new Cow(setRandomWeight(57.9f, 200.20f), true,setRandomAge(2), hay);
             if (i%2==0) {
                 cow.setMilk(milk1);
-            } else { cow.setMilk(milk2);}
+            } else { cow.setMilk(milk1);}
             cows.add(cow);
         }
 //        Cow cow1 = new Cow(100, true, 1, hay);
@@ -67,14 +79,25 @@ public class FarmBuilder {
 //        cows.add(cow3);
 //        cows.add(cow1);
 //
-//        cows.forEach(cow -> cow.setMilk(milk));
+//        cows.forEach(cow -> cow.setMilk(milk1));
 
 //        annualCostMilk(cows);
 
         return cows;
     }
 
-    public static List<Sheep> sheepBuilder(int sheepCount) throws InvalidVaccinationException {
+    public static Milk countMilkDay(List<Cow> cows) {
+        double volumeMilkDay = cows.get(0).getMilk().getVolume()*cows.size();
+        Price priceMilk = new Price(BigDecimal.valueOf(5.5), "BYN");
+        Milk milk = new Milk(LocalDate.now(), LocalDate.of(2022,02,01),priceMilk, volumeMilkDay);
+        return milk;
+    }
+
+    public static List<Sheep> sheepBuilder(Scanner sc) throws InvalidVaccinationException {
+
+        LOGGER.info("Enter Sheep Count: ");
+        int sheepCount = sc.nextInt();
+
         Price priceKombikorm = new Price(BigDecimal.valueOf(0.2), "BYN");
         Price priceWool = new Price(BigDecimal.valueOf(0.3), "BYN");
 
@@ -110,6 +133,13 @@ public class FarmBuilder {
         return sheeps;
     }
 
+    public static Wool countWoolDay(List<Sheep> sheep) {
+        double volumeWoolDay = sheep.get(0).getWool().getVolume()*sheep.size();
+        Price priceWool = new Price(BigDecimal.valueOf(0.3), "BYN");
+        Wool wool = new Wool(LocalDate.now(), LocalDate.of(2023,02,01), priceWool, (float) volumeWoolDay);
+        return wool;
+    }
+
     public static float setRandomWeight(float min, float max) {
         Random r = new Random();
         float random = min + r.nextFloat() * (max - min);
@@ -120,6 +150,37 @@ public class FarmBuilder {
     {
         int num = (int)(Math.random() *max);
         return num;
+    }
+
+    public static List<Customer> customerBuilder (Scanner sc){
+
+        LOGGER.info("Customer for today: ");
+        int customerCount =  sc.nextInt();
+        List<Customer> customers= new ArrayList<>();
+
+        for (int i=0; i<customerCount; i++){
+            Customer customer = new Customer();
+            LOGGER.info("Enter your name, please: ");
+            String customerName = sc.next();
+            customer.setName(customerName);
+            LOGGER.info("Where are you from: ");
+            String customerCountry = sc.next();
+            customer.setCountry(customerCountry);
+            LOGGER.info("Are you regularly (Y or N): ");
+            String isRegularly = sc.next();
+            if (isRegularly == "Y") {
+                customer.setRegularly(true);
+            } else {
+                customer.setRegularly(false);
+                customers.add(customer);
+            }
+        }
+        return customers;
+    }
+
+    public static int budgetBuilder (Scanner sc){
+        LOGGER.info("Enter budget: ");
+        return sc.nextInt();
     }
 
     @Override

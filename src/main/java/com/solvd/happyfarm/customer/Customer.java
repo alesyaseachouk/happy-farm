@@ -6,7 +6,15 @@ public class Customer {
 
     private String name;
     private String country;
-    private Boolean isRegularly;
+    private boolean isRegularly;
+
+    public Customer() {
+    }
+
+    public Customer(String name, boolean isRegularly) {
+        this.name = name;
+        this.isRegularly = isRegularly;
+    }
 
     public Customer(String name, String country, Boolean isRegularly) {
         this.name = name;
@@ -22,7 +30,7 @@ public class Customer {
         return country;
     }
 
-    public Boolean getRegularly() {
+    public boolean getRegularly() {
         return isRegularly;
     }
 
@@ -34,7 +42,7 @@ public class Customer {
         this.country = country;
     }
 
-    public void setRegularly(Boolean regularly) {
+    public void setRegularly(boolean regularly) {
         isRegularly = regularly;
     }
 

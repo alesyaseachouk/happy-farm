@@ -1124,3 +1124,1018 @@
 2023-22-10 13:22:09.185 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
 2023-22-10 13:22:09.185 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
 2023-22-10 13:22:09.185 [main] INFO  com.solvd.happyfarm.Main - Enter Cows Count: 
+2023-37-11 09:37:21.249 [main] INFO  com.solvd.happyfarm.Main - Enter Chickens Count: 
+2023-37-11 09:37:23.873 [main] INFO  com.solvd.happyfarm.Main - Here are all farm chickens: 456
+2023-37-11 09:37:23.888 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.888 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.888 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.888 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.888 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.888 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.889 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.889 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.889 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.889 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.889 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.889 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.889 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.890 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.890 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.890 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.890 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.890 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.890 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.891 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.891 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.891 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.891 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.891 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.891 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.891 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.892 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.892 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.892 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.892 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.892 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.892 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.892 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.892 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.893 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.893 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.893 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.893 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.893 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.893 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.893 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.894 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.894 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.894 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.894 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.896 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.896 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.896 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.896 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.896 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.896 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.897 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.897 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.897 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.897 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.897 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.897 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.897 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.897 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.898 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.898 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.898 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.898 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.898 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.898 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.898 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.899 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.899 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.899 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.899 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.899 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.899 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.899 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.899 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.899 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.900 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.900 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.900 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.900 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.900 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.900 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.900 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.900 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.900 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.901 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.901 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.901 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.901 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.901 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.901 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.901 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.901 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.901 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.902 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.902 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.902 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.902 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.902 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.902 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.902 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.902 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.902 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.903 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.903 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.903 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.903 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.903 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.903 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.903 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.903 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.903 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.903 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.904 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.904 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.904 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.904 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.904 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.904 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.904 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.904 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.904 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.904 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.905 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.905 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.905 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.905 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.905 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.905 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.905 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.906 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.906 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.906 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.906 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.906 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.906 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.906 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.906 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.906 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.907 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.907 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.907 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.907 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.907 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.907 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.907 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.907 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.907 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.907 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.907 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.908 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.908 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.908 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.908 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.908 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.908 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.908 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.908 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.908 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.909 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.909 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.909 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.909 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.909 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.909 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.909 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.909 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.909 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.909 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.909 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.910 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.910 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.910 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.910 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.910 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.910 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.910 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.910 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.910 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.910 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.910 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.911 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.911 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.911 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.911 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.911 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.911 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.911 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.911 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.911 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.911 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.911 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.912 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.912 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.912 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.912 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.912 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.912 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.912 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.912 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.912 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.912 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.912 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.912 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.913 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.913 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.913 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.913 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.913 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.913 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.913 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.913 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.913 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.913 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.913 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.913 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.914 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.914 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.914 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.914 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.914 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.914 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.914 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.914 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.914 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.914 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.914 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.915 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.915 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.915 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.915 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.915 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.915 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.915 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.915 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.915 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.915 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.915 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.915 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.915 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.916 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.916 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.916 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.916 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.916 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.916 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.916 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.916 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.916 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.916 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.916 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.916 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.916 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.916 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.917 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.917 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.917 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.917 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.917 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.917 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.917 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.917 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.917 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.918 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.918 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.918 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.918 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.918 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.918 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.918 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.918 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.918 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.918 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.918 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.918 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.918 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.919 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.919 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.919 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.919 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.919 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.919 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.919 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.919 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.919 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.919 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.919 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.919 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.919 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.919 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.919 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.920 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.920 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.920 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.920 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.920 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.920 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.920 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.920 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.920 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.920 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.920 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.920 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.920 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.920 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.920 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.921 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.921 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.921 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.921 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.921 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.921 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.921 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.921 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.921 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.921 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.921 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.921 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.921 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.921 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.921 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.922 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.922 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.922 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.922 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.922 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.922 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.922 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.922 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.922 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.922 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.922 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.922 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.922 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.922 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.922 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.923 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.923 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.923 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.923 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.923 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.923 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.923 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.923 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.923 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.923 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.923 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.923 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.923 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.923 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.923 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.923 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.924 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.924 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.924 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.924 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.924 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.924 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.924 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.924 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.924 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.924 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.924 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.924 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.924 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.924 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.924 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.925 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.925 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.925 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.925 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.925 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.925 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.925 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.925 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.925 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.925 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.925 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.925 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.925 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.926 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.926 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.926 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.926 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.926 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.926 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.926 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.926 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.926 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.926 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.926 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.926 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.926 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.926 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.927 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.927 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.927 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.927 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.927 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.927 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.927 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.927 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.927 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.927 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.927 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.927 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.927 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.927 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.927 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.928 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.928 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.928 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.928 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.928 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.928 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.928 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.928 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.928 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.928 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.928 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.928 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.928 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.928 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.928 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.928 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.929 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.929 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.929 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.929 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.929 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.929 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.929 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.929 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.929 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.929 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.929 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.929 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.929 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.929 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.929 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.929 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.930 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.930 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.930 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.930 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.930 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.930 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.930 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.930 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.930 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.930 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.930 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.930 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.930 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.930 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.930 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-37-11 09:37:23.930 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-37-11 09:37:23.931 [main] INFO  com.solvd.happyfarm.Main - Enter Cows Count: 
+2023-39-11 09:39:38.983 [main] INFO  com.solvd.happyfarm.Main - Here are all farm cows: 34
+2023-39-11 09:39:38.987 [main] INFO  com.solvd.happyfarm.Main - Cow{milk=Milk{volume=1.0}}
+2023-39-11 09:39:38.988 [main] INFO  com.solvd.happyfarm.Main - Enter Sheep Count: 
+2023-44-11 09:44:41.983 [main] INFO  com.solvd.happyfarm.Main - Enter Chickens Count: 
+2023-44-11 09:44:51.057 [main] INFO  com.solvd.happyfarm.Main - Here are all farm chickens: 4
+2023-50-11 09:50:48.582 [main] INFO  com.solvd.happyfarm.Main - Enter Cows Count: 
+2023-50-11 09:50:51.500 [main] INFO  com.solvd.happyfarm.Main - Enter Chickens Count: 
+2023-50-11 09:50:59.587 [main] INFO  com.solvd.happyfarm.Main - Here are all farm chickens: 5
+2023-50-11 09:50:59.600 [main] INFO  com.solvd.happyfarm.Main - Farm{chickens=[Chicken{egg=Egg{category='D', size=2}}, Chicken{egg=Egg{category='C', size=1}}, Chicken{egg=Egg{category='D', size=2}}, Chicken{egg=Egg{category='C', size=1}}, Chicken{egg=Egg{category='D', size=2}}], cows=null, sheeps=null, customers=null, eggs=[Egg{category='D', size=2}, Egg{category='C', size=1}, Egg{category='D', size=2}, Egg{category='C', size=1}, Egg{category='D', size=2}], milks=null, wools=null, budget=0}
+2023-50-11 09:50:59.601 [main] INFO  com.solvd.happyfarm.Main - Enter Cows Count: 
+2023-17-11 10:17:19.910 [main] INFO  com.solvd.happyfarm.Main - Enter Chickens Count: 
+2023-17-11 10:17:22.542 [main] INFO  com.solvd.happyfarm.Main - Here are all farm chickens: 3
+2023-17-11 10:17:22.559 [main] INFO  com.solvd.happyfarm.Main - Farm{chickens=[Chicken{egg=Egg{category='D', size=2}}, Chicken{egg=Egg{category='C', size=1}}, Chicken{egg=Egg{category='D', size=2}}], cows=null, sheeps=null, customers=null, eggs=[Egg{category='D', size=2}, Egg{category='C', size=1}, Egg{category='D', size=2}], milks=null, wools=null, budget=0}
+2023-17-11 10:17:22.560 [main] INFO  com.solvd.happyfarm.Main - Enter Cows Count: 
+2023-22-11 10:22:23.877 [main] INFO  com.solvd.happyfarm.Main - Enter Chickens Count: 
+2023-22-11 10:22:25.610 [main] INFO  com.solvd.happyfarm.Main - Here are all farm chickens: 3
+2023-22-11 10:22:25.632 [main] INFO  com.solvd.happyfarm.Main - Farm{chickens=[Chicken{egg=Egg{category='D', size=2}}, Chicken{egg=Egg{category='C', size=1}}, Chicken{egg=Egg{category='D', size=2}}], eggs=[Egg{category='D', size=2}, Egg{category='C', size=1}, Egg{category='D', size=2}]}
+2023-22-11 10:22:25.633 [main] INFO  com.solvd.happyfarm.Main - Enter Cows Count: 
+2023-02-11 11:02:36.434 [main] INFO  com.solvd.happyfarm.Main - Enter Chickens Count: 
+2023-55-11 13:55:18.127 [main] INFO  com.solvd.happyfarm.Main - Enter Chickens Count: 
+2023-58-11 13:58:44.948 [main] INFO  com.solvd.happyfarm.Main - Here are all farm chickens: 4
+2023-58-11 13:58:44.972 [main] INFO  com.solvd.happyfarm.Main - Farm{chickens=[Chicken{egg=Egg{category='D', size=2}}, Chicken{egg=Egg{category='C', size=1}}, Chicken{egg=Egg{category='D', size=2}}, Chicken{egg=Egg{category='C', size=1}}], eggs=[Egg{category='D', size=2}, Egg{category='C', size=1}, Egg{category='D', size=2}, Egg{category='C', size=1}]}
+2023-58-11 13:58:44.972 [main] INFO  com.solvd.happyfarm.Main - Enter Cows Count: 
+2023-52-11 15:52:49.767 [main] INFO  com.solvd.happyfarm.Main - Enter Chickens Count: 
+2023-52-11 15:52:56.003 [main] INFO  com.solvd.happyfarm.Main - Here are all farm chickens: 56
+2023-52-11 15:52:56.024 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-52-11 15:52:56.024 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-52-11 15:52:56.024 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-52-11 15:52:56.025 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-52-11 15:52:56.025 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-52-11 15:52:56.025 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-52-11 15:52:56.025 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-52-11 15:52:56.025 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-52-11 15:52:56.025 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-52-11 15:52:56.025 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-52-11 15:52:56.026 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-52-11 15:52:56.026 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-52-11 15:52:56.026 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-52-11 15:52:56.026 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-52-11 15:52:56.026 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-52-11 15:52:56.026 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-52-11 15:52:56.026 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-52-11 15:52:56.026 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-52-11 15:52:56.027 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-52-11 15:52:56.027 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-52-11 15:52:56.027 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-52-11 15:52:56.027 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-52-11 15:52:56.027 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-52-11 15:52:56.027 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-52-11 15:52:56.027 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-52-11 15:52:56.028 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-52-11 15:52:56.028 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-52-11 15:52:56.028 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-52-11 15:52:56.028 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-52-11 15:52:56.028 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-52-11 15:52:56.028 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-52-11 15:52:56.028 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-52-11 15:52:56.028 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-52-11 15:52:56.029 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-52-11 15:52:56.029 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-52-11 15:52:56.029 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-52-11 15:52:56.029 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-52-11 15:52:56.029 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-52-11 15:52:56.029 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-52-11 15:52:56.029 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-52-11 15:52:56.030 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-52-11 15:52:56.030 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-52-11 15:52:56.030 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-52-11 15:52:56.030 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-52-11 15:52:56.030 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-52-11 15:52:56.030 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-52-11 15:52:56.030 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-52-11 15:52:56.030 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-52-11 15:52:56.031 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-52-11 15:52:56.031 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-52-11 15:52:56.031 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-52-11 15:52:56.031 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-52-11 15:52:56.031 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-52-11 15:52:56.031 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-52-11 15:52:56.031 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-52-11 15:52:56.031 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-52-11 15:52:56.032 [main] INFO  com.solvd.happyfarm.Main - Enter Cows Count: 
+2023-14-11 16:14:57.268 [main] INFO  com.solvd.happyfarm.Main - Here are all farm cows: 3
+2023-14-11 16:14:57.273 [main] INFO  com.solvd.happyfarm.Main - Cow{milk=Milk{volume=1.0}}
+2023-14-11 16:14:57.273 [main] INFO  com.solvd.happyfarm.Main - Enter Sheep Count: 
+2023-04-11 17:04:40.556 [main] INFO  com.solvd.happyfarm.Main - Enter Chickens Count: 
+2023-04-11 17:04:42.460 [main] INFO  com.solvd.happyfarm.Main - Here are all farm chickens: 3
+2023-04-11 17:04:42.474 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-04-11 17:04:42.474 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-04-11 17:04:42.474 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-04-11 17:04:42.475 [main] INFO  com.solvd.happyfarm.Main - Enter Cows Count: 
+2023-04-11 17:04:43.760 [main] INFO  com.solvd.happyfarm.Main - Here are all farm cows: 2
+2023-04-11 17:04:43.762 [main] INFO  com.solvd.happyfarm.Main - Cow{milk=Milk{volume=1.0}}
+2023-04-11 17:04:43.762 [main] INFO  com.solvd.happyfarm.Main - Cow{milk=Milk{volume=1.0}}
+2023-04-11 17:04:43.763 [main] INFO  com.solvd.happyfarm.Main - Enter Sheep Count: 
+2023-04-11 17:04:47.744 [main] INFO  com.solvd.happyfarm.Main - Here are all farm cows: 4
+2023-04-11 17:04:47.746 [main] INFO  com.solvd.happyfarm.Main - Sheep{wool=Wool{volume=1.0}}
+2023-04-11 17:04:47.746 [main] INFO  com.solvd.happyfarm.Main - Sheep{wool=Wool{volume=1.0}}
+2023-04-11 17:04:47.746 [main] INFO  com.solvd.happyfarm.Main - Sheep{wool=Wool{volume=1.0}}
+2023-04-11 17:04:47.746 [main] INFO  com.solvd.happyfarm.Main - Sheep{wool=Wool{volume=1.0}}
+2023-04-11 17:04:47.747 [main] INFO  com.solvd.happyfarm.Main - Farm info: /chickens =[Chicken{egg=Egg{category='D', size=2}}, Chicken{egg=Egg{category='C', size=1}}, Chicken{egg=Egg{category='D', size=2}}]/cows =[Cow{milk=Milk{volume=1.0}}, Cow{milk=Milk{volume=1.0}}]/sheep =[Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}]/Products created each day: /eggs =[Egg{category='D', size=2}, Egg{category='C', size=1}, Egg{category='D', size=2}]/milk =null/wool =null/
+2023-05-11 17:05:40.402 [main] INFO  com.solvd.happyfarm.Main - Enter Chickens Count: 
+2023-05-11 17:05:42.904 [main] INFO  com.solvd.happyfarm.Main - Here are all farm chickens: 1
+2023-05-11 17:05:42.918 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-05-11 17:05:42.919 [main] INFO  com.solvd.happyfarm.Main - Enter Cows Count: 
+2023-05-11 17:05:48.974 [main] INFO  com.solvd.happyfarm.Main - Here are all farm cows: 2
+2023-05-11 17:05:48.976 [main] INFO  com.solvd.happyfarm.Main - Cow{milk=Milk{volume=1.0}}
+2023-05-11 17:05:48.976 [main] INFO  com.solvd.happyfarm.Main - Cow{milk=Milk{volume=1.0}}
+2023-05-11 17:05:48.976 [main] INFO  com.solvd.happyfarm.Main - Enter Sheep Count: 
+2023-05-11 17:05:54.555 [main] INFO  com.solvd.happyfarm.Main - Here are all farm cows: 2
+2023-05-11 17:05:54.556 [main] INFO  com.solvd.happyfarm.Main - Sheep{wool=Wool{volume=1.0}}
+2023-05-11 17:05:54.556 [main] INFO  com.solvd.happyfarm.Main - Sheep{wool=Wool{volume=1.0}}
+2023-05-11 17:05:54.557 [main] INFO  com.solvd.happyfarm.Main - All farm animalsFarm info: /chickens =[Chicken{egg=Egg{category='D', size=2}}]/cows =[Cow{milk=Milk{volume=1.0}}, Cow{milk=Milk{volume=1.0}}]/sheep =[Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}]/Products created each day: /eggs =[Egg{category='D', size=2}]/milk =null/wool =null/
+2023-21-11 17:21:52.775 [main] INFO  com.solvd.happyfarm.Main - Enter Chickens Count: 
+2023-21-11 17:21:57.285 [main] INFO  com.solvd.happyfarm.Main - Here are all farm chickens: 3
+2023-21-11 17:21:57.303 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-21-11 17:21:57.303 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-21-11 17:21:57.303 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-21-11 17:21:57.304 [main] INFO  com.solvd.happyfarm.Main - Enter Cows Count: 
+2023-21-11 17:21:58.846 [main] INFO  com.solvd.happyfarm.Main - Here are all farm cows: 2
+2023-21-11 17:21:58.848 [main] INFO  com.solvd.happyfarm.Main - Cow{milk=Milk{volume=1.0}}
+2023-21-11 17:21:58.848 [main] INFO  com.solvd.happyfarm.Main - Cow{milk=Milk{volume=1.0}}
+2023-21-11 17:21:58.849 [main] INFO  com.solvd.happyfarm.Main - Enter Sheep Count: 
+2023-22-11 17:22:02.387 [main] INFO  com.solvd.happyfarm.Main - Here are all farm cows: 2
+2023-22-11 17:22:02.389 [main] INFO  com.solvd.happyfarm.Main - Sheep{wool=Wool{volume=1.0}}
+2023-22-11 17:22:02.389 [main] INFO  com.solvd.happyfarm.Main - Sheep{wool=Wool{volume=1.0}}
+2023-22-11 17:22:02.390 [main] INFO  com.solvd.happyfarm.Main - All farm animals: /Farm info: /chickens =[Chicken{egg=Egg{category='D', size=2}}, Chicken{egg=Egg{category='C', size=1}}, Chicken{egg=Egg{category='D', size=2}}]/cows =[Cow{milk=Milk{volume=1.0}}, Cow{milk=Milk{volume=1.0}}]/sheep =[Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}]/Products created each day: /eggs =[Egg{category='D', size=2}, Egg{category='C', size=1}, Egg{category='D', size=2}]/milk =null/wool =null/
+2023-23-11 17:23:03.732 [main] INFO  com.solvd.happyfarm.Main - Enter Chickens Count: 
+2023-23-11 17:23:05.446 [main] INFO  com.solvd.happyfarm.Main - Here are all farm chickens: 1
+2023-23-11 17:23:05.462 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-23-11 17:23:05.463 [main] INFO  com.solvd.happyfarm.Main - Enter Cows Count: 
+2023-23-11 17:23:06.185 [main] INFO  com.solvd.happyfarm.Main - Here are all farm cows: 1
+2023-23-11 17:23:06.187 [main] INFO  com.solvd.happyfarm.Main - Cow{milk=Milk{volume=1.0}}
+2023-23-11 17:23:06.187 [main] INFO  com.solvd.happyfarm.Main - Enter Sheep Count: 
+2023-23-11 17:23:06.827 [main] INFO  com.solvd.happyfarm.Main - Here are all farm cows: 1
+2023-23-11 17:23:06.828 [main] INFO  com.solvd.happyfarm.Main - Sheep{wool=Wool{volume=1.0}}
+2023-23-11 17:23:06.829 [main] INFO  com.solvd.happyfarm.Main - All farm animals: 
+ Farm info: /chickens =[Chicken{egg=Egg{category='D', size=2}}]/cows =[Cow{milk=Milk{volume=1.0}}]/sheep =[Sheep{wool=Wool{volume=1.0}}]/Products created each day: /eggs =[Egg{category='D', size=2}]/milk =null/wool =null/
+2023-25-11 17:25:59.833 [main] INFO  com.solvd.happyfarm.Main - Enter Chickens Count: 
+2023-26-11 17:26:01.483 [main] INFO  com.solvd.happyfarm.Main - Here are all farm chickens: 1
+2023-26-11 17:26:01.501 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-26-11 17:26:01.502 [main] INFO  com.solvd.happyfarm.Main - Enter Cows Count: 
+2023-26-11 17:26:01.986 [main] INFO  com.solvd.happyfarm.Main - Here are all farm cows: 1
+2023-26-11 17:26:01.988 [main] INFO  com.solvd.happyfarm.Main - Cow{milk=Milk{volume=1.0}}
+2023-26-11 17:26:01.988 [main] INFO  com.solvd.happyfarm.Main - Enter Sheep Count: 
+2023-26-11 17:26:02.751 [main] INFO  com.solvd.happyfarm.Main - Here are all farm cows: 1
+2023-26-11 17:26:02.753 [main] INFO  com.solvd.happyfarm.Main - Sheep{wool=Wool{volume=1.0}}
+2023-26-11 17:26:02.753 [main] INFO  com.solvd.happyfarm.Main - All farm animals: 
+ Farm info: 
+ 
+ chickens = [Chicken{egg=Egg{category='D', size=2}}]
+ cows =[Cow{milk=Milk{volume=1.0}}]/
+ sheep =[Sheep{wool=Wool{volume=1.0}}]/
+ Products created each day: /
+ eggs =[Egg{category='D', size=2}]/
+ milk =null/wool =null/
+2023-09-11 23:09:19.638 [main] INFO  com.solvd.happyfarm.Main - Enter Chickens Count: 
+2023-09-11 23:09:22.622 [main] INFO  com.solvd.happyfarm.Main - Here are all farm chickens: 2
+2023-09-11 23:09:22.636 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-09-11 23:09:22.636 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-09-11 23:09:22.637 [main] INFO  com.solvd.happyfarm.Main - Enter Cows Count: 
+2023-09-11 23:09:26.490 [main] INFO  com.solvd.happyfarm.Main - Here are all farm cows: 3
+2023-09-11 23:09:26.492 [main] INFO  com.solvd.happyfarm.Main - Cow{milk=Milk{volume=4.5}}
+2023-09-11 23:09:26.493 [main] INFO  com.solvd.happyfarm.Main - Cow{milk=Milk{volume=4.5}}
+2023-09-11 23:09:26.493 [main] INFO  com.solvd.happyfarm.Main - Cow{milk=Milk{volume=4.5}}
+2023-09-11 23:09:26.510 [main] INFO  com.solvd.happyfarm.Main - Enter Sheep Count: 
+2023-09-11 23:09:29.381 [main] INFO  com.solvd.happyfarm.Main - Here are all farm cows: 2
+2023-09-11 23:09:29.383 [main] INFO  com.solvd.happyfarm.Main - Sheep{wool=Wool{volume=1.0}}
+2023-09-11 23:09:29.383 [main] INFO  com.solvd.happyfarm.Main - Sheep{wool=Wool{volume=1.0}}
+2023-09-11 23:09:29.384 [main] INFO  com.solvd.happyfarm.Main - All farm animals: 
+ Farm info: 
+ 
+ chickens = [Chicken{egg=Egg{category='D', size=2}}, Chicken{egg=Egg{category='C', size=1}}]
+ cows =[Cow{milk=Milk{volume=4.5}}, Cow{milk=Milk{volume=4.5}}, Cow{milk=Milk{volume=4.5}}]/
+ sheep =[Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}]/
+ Products created each day: /
+ eggs =[Egg{category='D', size=2}, Egg{category='C', size=1}]/
+ milk =13.5/wool =null/
+2023-13-11 23:13:56.115 [main] INFO  com.solvd.happyfarm.Main - Enter Chickens Count: 
+2023-13-11 23:13:59.147 [main] INFO  com.solvd.happyfarm.Main - Here are all farm chickens: 3
+2023-13-11 23:13:59.164 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-13-11 23:13:59.165 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-13-11 23:13:59.165 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-13-11 23:13:59.165 [main] INFO  com.solvd.happyfarm.Main - Enter Cows Count: 
+2023-14-11 23:14:00.240 [main] INFO  com.solvd.happyfarm.Main - Here are all farm cows: 2
+2023-14-11 23:14:00.241 [main] INFO  com.solvd.happyfarm.Main - Cow{milk=Milk{volume=4.5}}
+2023-14-11 23:14:00.241 [main] INFO  com.solvd.happyfarm.Main - Cow{milk=Milk{volume=4.5}}
+2023-14-11 23:14:00.258 [main] INFO  com.solvd.happyfarm.Main - Enter Sheep Count: 
+2023-14-11 23:14:01.258 [main] INFO  com.solvd.happyfarm.Main - Here are all farm cows: 2
+2023-14-11 23:14:01.260 [main] INFO  com.solvd.happyfarm.Main - Sheep{wool=Wool{volume=1.0}}
+2023-14-11 23:14:01.261 [main] INFO  com.solvd.happyfarm.Main - Sheep{wool=Wool{volume=1.0}}
+2023-14-11 23:14:01.262 [main] INFO  com.solvd.happyfarm.Main - All farm animals: 
+ Farm info: 
+ 
+ chickens = [Chicken{egg=Egg{category='D', size=2}}, Chicken{egg=Egg{category='C', size=1}}, Chicken{egg=Egg{category='D', size=2}}]
+ cows =[Cow{milk=Milk{volume=4.5}}, Cow{milk=Milk{volume=4.5}}]/
+ sheep =[Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}]/
+ Products created each day: /
+ eggs =[Egg{category='D', size=2}, Egg{category='C', size=1}, Egg{category='D', size=2}]/
+ milk =9.0/wool =null/
+2023-34-11 23:34:04.355 [main] INFO  com.solvd.happyfarm.Main - Enter Chickens Count: 
+2023-34-11 23:34:06.385 [main] INFO  com.solvd.happyfarm.Main - Here are all farm chickens: 2
+2023-34-11 23:34:06.399 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-34-11 23:34:06.400 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-34-11 23:34:06.401 [main] INFO  com.solvd.happyfarm.Main - Enter Cows Count: 
+2023-34-11 23:34:07.694 [main] INFO  com.solvd.happyfarm.Main - Here are all farm cows: 3
+2023-34-11 23:34:07.696 [main] INFO  com.solvd.happyfarm.Main - Cow{milk=Milk{volume=4.5}}
+2023-34-11 23:34:07.696 [main] INFO  com.solvd.happyfarm.Main - Cow{milk=Milk{volume=4.5}}
+2023-34-11 23:34:07.696 [main] INFO  com.solvd.happyfarm.Main - Cow{milk=Milk{volume=4.5}}
+2023-34-11 23:34:07.706 [main] INFO  com.solvd.happyfarm.Main - Enter Sheep Count: 
+2023-34-11 23:34:09.914 [main] INFO  com.solvd.happyfarm.Main - Here are all farm cows: 2
+2023-34-11 23:34:09.917 [main] INFO  com.solvd.happyfarm.Main - Sheep{wool=Wool{volume=1.0}}
+2023-34-11 23:34:09.917 [main] INFO  com.solvd.happyfarm.Main - Sheep{wool=Wool{volume=1.0}}
+2023-34-11 23:34:09.918 [main] INFO  com.solvd.happyfarm.Main - All farm animals: 
+ Farm info: 
+ 
+ chickens = [Chicken{egg=Egg{category='D', size=2}}, Chicken{egg=Egg{category='C', size=1}}]
+ cows =[Cow{milk=Milk{volume=4.5}}, Cow{milk=Milk{volume=4.5}}, Cow{milk=Milk{volume=4.5}}]/
+ sheep =[Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}]/
+ Products created each day: /
+ eggs =[Egg{category='D', size=2}, Egg{category='C', size=1}]/
+ milk =13.5/wool =13.5/
+2023-04-12 00:04:20.795 [main] INFO  com.solvd.happyfarm.Main - Enter Chickens Count: 
+2023-04-12 00:04:24.141 [main] INFO  com.solvd.happyfarm.Main - Here are all farm chickens: 1
+2023-04-12 00:04:24.158 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-04-12 00:04:24.159 [main] INFO  com.solvd.happyfarm.Main - Enter Cows Count: 
+2023-04-12 00:04:24.717 [main] INFO  com.solvd.happyfarm.Main - Here are all farm cows: 1
+2023-04-12 00:04:24.719 [main] INFO  com.solvd.happyfarm.Main - Cow{milk=Milk{volume=4.5}}
+2023-04-12 00:04:24.729 [main] INFO  com.solvd.happyfarm.Main - Enter Sheep Count: 
+2023-04-12 00:04:26.833 [main] INFO  com.solvd.happyfarm.Main - Here are all farm cows: 1
+2023-04-12 00:04:26.835 [main] INFO  com.solvd.happyfarm.Main - Sheep{wool=Wool{volume=1.0}}
+2023-04-12 00:04:26.836 [main] INFO  com.solvd.happyfarm.Main - All farm animals: 
+ Farm info: 
+ 
+ chickens = [Chicken{egg=Egg{category='D', size=2}}]
+ cows =[Cow{milk=Milk{volume=4.5}}]
+ sheep =[Sheep{wool=Wool{volume=1.0}}]
+ Products created each day: 
+ eggs =[Egg{category='D', size=2}]
+ milk =4.5wool =4.5
+2023-06-12 00:06:03.087 [main] INFO  com.solvd.happyfarm.Main - Enter Chickens Count: 
+2023-06-12 00:06:06.624 [main] INFO  com.solvd.happyfarm.Main - Here are all farm chickens: 1
+2023-06-12 00:06:06.641 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-06-12 00:06:06.642 [main] INFO  com.solvd.happyfarm.Main - Enter Cows Count: 
+2023-06-12 00:06:07.433 [main] INFO  com.solvd.happyfarm.Main - Here are all farm cows: 1
+2023-06-12 00:06:07.434 [main] INFO  com.solvd.happyfarm.Main - Cow{milk=Milk{volume=4.5}}
+2023-06-12 00:06:07.445 [main] INFO  com.solvd.happyfarm.Main - Enter Sheep Count: 
+2023-06-12 00:06:08.125 [main] INFO  com.solvd.happyfarm.Main - Here are all farm cows: 1
+2023-06-12 00:06:08.127 [main] INFO  com.solvd.happyfarm.Main - Sheep{wool=Wool{volume=1.0}}
+2023-06-12 00:06:08.128 [main] INFO  com.solvd.happyfarm.Main - All farm animals: 
+ Farm info: 
+ 
+ chickens = [Chicken{egg=Egg{category='D', size=2}}]
+ cows =[Cow{milk=Milk{volume=4.5}}]
+ sheep =[Sheep{wool=Wool{volume=1.0}}]
+ Products created each day: 
+ eggs =[Egg{category='D', size=2}]
+ milk =4.5wool =4.5
+2023-06-12 00:06:08.128 [main] INFO  com.solvd.happyfarm.Main - Customer: 
+2023-06-12 00:06:10.784 [main] INFO  com.solvd.happyfarm.Main - Enter your name, please: 
+2023-06-12 00:06:10.784 [main] INFO  com.solvd.happyfarm.Main - Where are you from: 
+2023-06-12 00:06:10.784 [main] INFO  com.solvd.happyfarm.Main - Are you regularly (Y or N): 
+2023-07-12 00:07:28.192 [main] INFO  com.solvd.happyfarm.Main - Enter Chickens Count: 
+2023-07-12 00:07:30.152 [main] INFO  com.solvd.happyfarm.Main - Here are all farm chickens: 1
+2023-07-12 00:07:30.169 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-07-12 00:07:30.169 [main] INFO  com.solvd.happyfarm.Main - Enter Cows Count: 
+2023-07-12 00:07:30.610 [main] INFO  com.solvd.happyfarm.Main - Here are all farm cows: 1
+2023-07-12 00:07:30.611 [main] INFO  com.solvd.happyfarm.Main - Cow{milk=Milk{volume=4.5}}
+2023-07-12 00:07:30.621 [main] INFO  com.solvd.happyfarm.Main - Enter Sheep Count: 
+2023-07-12 00:07:31.053 [main] INFO  com.solvd.happyfarm.Main - Here are all farm cows: 1
+2023-07-12 00:07:31.054 [main] INFO  com.solvd.happyfarm.Main - Sheep{wool=Wool{volume=1.0}}
+2023-07-12 00:07:31.055 [main] INFO  com.solvd.happyfarm.Main - All farm animals: 
+ Farm info: 
+ 
+ chickens = [Chicken{egg=Egg{category='D', size=2}}]
+ cows =[Cow{milk=Milk{volume=4.5}}]
+ sheep =[Sheep{wool=Wool{volume=1.0}}]
+ Products created each day: 
+ eggs =[Egg{category='D', size=2}]
+ milk =4.5wool =4.5
+2023-07-12 00:07:31.055 [main] INFO  com.solvd.happyfarm.Main - Customer: 
+2023-07-12 00:07:33.057 [main] INFO  com.solvd.happyfarm.Main - Enter your name, please: 
+2023-07-12 00:07:33.058 [main] INFO  com.solvd.happyfarm.Main - java.util.Scanner[delimiters=\p{javaWhitespace}+][position=7][match valid=true][need input=false][source closed=false][skipped=false][group separator=\x{2c}][decimal separator=\x{2e}][positive prefix=][negative prefix=\Q-\E][positive suffix=][negative suffix=][NaN string=\Q�\E][infinity string=\Q∞\E]
+2023-07-12 00:07:33.058 [main] INFO  com.solvd.happyfarm.Main - Where are you from: 
+2023-07-12 00:07:33.058 [main] INFO  com.solvd.happyfarm.Main - Are you regularly (Y or N): 
+2023-10-12 00:10:35.281 [main] INFO  com.solvd.happyfarm.Main - Enter Chickens Count: 
+2023-10-12 00:10:39.943 [main] INFO  com.solvd.happyfarm.Main - Here are all farm chickens: 1
+2023-10-12 00:10:39.959 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-10-12 00:10:39.960 [main] INFO  com.solvd.happyfarm.Main - Enter Cows Count: 
+2023-10-12 00:10:40.723 [main] INFO  com.solvd.happyfarm.Main - Here are all farm cows: 1
+2023-10-12 00:10:40.725 [main] INFO  com.solvd.happyfarm.Main - Cow{milk=Milk{volume=4.5}}
+2023-10-12 00:10:40.736 [main] INFO  com.solvd.happyfarm.Main - Enter Sheep Count: 
+2023-10-12 00:10:41.319 [main] INFO  com.solvd.happyfarm.Main - Here are all farm cows: 1
+2023-10-12 00:10:41.321 [main] INFO  com.solvd.happyfarm.Main - Sheep{wool=Wool{volume=1.0}}
+2023-10-12 00:10:41.322 [main] INFO  com.solvd.happyfarm.Main - All farm animals: 
+ Farm info: 
+ 
+ chickens = [Chicken{egg=Egg{category='D', size=2}}]
+ cows =[Cow{milk=Milk{volume=4.5}}]
+ sheep =[Sheep{wool=Wool{volume=1.0}}]
+ Products created each day: 
+ eggs =[Egg{category='D', size=2}]
+ milk =4.5wool =4.5
+2023-10-12 00:10:41.322 [main] INFO  com.solvd.happyfarm.Main - Customer: 
+2023-10-12 00:10:44.219 [main] INFO  com.solvd.happyfarm.Main - Enter your name, please: 
+2023-10-12 00:10:50.477 [main] INFO  com.solvd.happyfarm.Main - Where are you from: 
+2023-10-12 00:10:53.613 [main] INFO  com.solvd.happyfarm.Main - Are you regularly (Y or N): 
+2023-10-12 00:10:57.723 [main] INFO  com.solvd.happyfarm.Main - Enter your name, please: 
+2023-11-12 00:11:02.396 [main] INFO  com.solvd.happyfarm.Main - Where are you from: 
+2023-11-12 00:11:03.846 [main] INFO  com.solvd.happyfarm.Main - Are you regularly (Y or N): 
+2023-13-12 00:13:14.313 [main] INFO  com.solvd.happyfarm.Main - Enter Chickens Count: 
+2023-13-12 00:13:16.484 [main] INFO  com.solvd.happyfarm.Main - Here are all farm chickens: 1
+2023-13-12 00:13:16.502 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-13-12 00:13:16.503 [main] INFO  com.solvd.happyfarm.Main - Enter Cows Count: 
+2023-13-12 00:13:16.850 [main] INFO  com.solvd.happyfarm.Main - Here are all farm cows: 1
+2023-13-12 00:13:16.851 [main] INFO  com.solvd.happyfarm.Main - Cow{milk=Milk{volume=4.5}}
+2023-13-12 00:13:16.862 [main] INFO  com.solvd.happyfarm.Main - Enter Sheep Count: 
+2023-13-12 00:13:17.407 [main] INFO  com.solvd.happyfarm.Main - Here are all farm cows: 1
+2023-13-12 00:13:17.409 [main] INFO  com.solvd.happyfarm.Main - Sheep{wool=Wool{volume=1.0}}
+2023-13-12 00:13:17.410 [main] INFO  com.solvd.happyfarm.Main - All farm animals: 
+ Farm info: 
+ 
+ chickens = [Chicken{egg=Egg{category='D', size=2}}]
+ cows =[Cow{milk=Milk{volume=4.5}}]
+ sheep =[Sheep{wool=Wool{volume=1.0}}]
+ Products created each day: 
+ eggs =[Egg{category='D', size=2}]
+ milk =4.5wool =4.5
+2023-13-12 00:13:17.410 [main] INFO  com.solvd.happyfarm.Main - Customer for today: 
+2023-13-12 00:13:18.748 [main] INFO  com.solvd.happyfarm.Main - Enter your name, please: 
+2023-13-12 00:13:23.373 [main] INFO  com.solvd.happyfarm.Main - Where are you from: 
+2023-13-12 00:13:24.909 [main] INFO  com.solvd.happyfarm.Main - Are you regularly (Y or N): 
+2023-27-12 09:27:05.249 [main] INFO  com.solvd.happyfarm.Main - Enter Chickens Count: 
+2023-31-12 10:31:55.623 [main] INFO  com.solvd.happyfarm.Main - Enter Chickens Count: 
+2023-32-12 10:32:01.044 [main] INFO  com.solvd.happyfarm.Main - Here are all farm chickens: 4
+2023-32-12 10:32:01.076 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-32-12 10:32:01.076 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-32-12 10:32:01.076 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-32-12 10:32:01.077 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-32-12 10:32:01.078 [main] INFO  com.solvd.happyfarm.Main - Enter Cows Count: 
+2023-32-12 10:32:02.441 [main] INFO  com.solvd.happyfarm.Main - Here are all farm cows: 2
+2023-32-12 10:32:02.445 [main] INFO  com.solvd.happyfarm.Main - Cow{milk=Milk{volume=4.5}}
+2023-32-12 10:32:02.445 [main] INFO  com.solvd.happyfarm.Main - Cow{milk=Milk{volume=4.5}}
+2023-32-12 10:32:02.464 [main] INFO  com.solvd.happyfarm.Main - Enter Sheep Count: 
+2023-32-12 10:32:05.726 [main] INFO  com.solvd.happyfarm.Main - Here are all farm cows: 1
+2023-32-12 10:32:05.728 [main] INFO  com.solvd.happyfarm.Main - Sheep{wool=Wool{volume=1.0}}
+2023-32-12 10:32:05.730 [main] INFO  com.solvd.happyfarm.Main - All farm animals: 
+ Farm info: 
+ 
+ chickens = [Chicken{egg=Egg{category='D', size=2}}, Chicken{egg=Egg{category='C', size=1}}, Chicken{egg=Egg{category='D', size=2}}, Chicken{egg=Egg{category='C', size=1}}]
+ cows =[Cow{milk=Milk{volume=4.5}}, Cow{milk=Milk{volume=4.5}}]
+ sheep =[Sheep{wool=Wool{volume=1.0}}]
+ Products created each day: 
+ eggs =[Egg{category='D', size=2}, Egg{category='C', size=1}, Egg{category='D', size=2}, Egg{category='C', size=1}]
+ milk =9.0wool =9.0
+2023-32-12 10:32:05.730 [main] INFO  com.solvd.happyfarm.Main - Customer for today: 
+2023-32-12 10:32:11.833 [main] INFO  com.solvd.happyfarm.Main - Enter your name, please: 
+2023-32-12 10:32:16.489 [main] INFO  com.solvd.happyfarm.Main - Where are you from: 
+2023-32-12 10:32:21.264 [main] INFO  com.solvd.happyfarm.Main - Are you regularly (Y or N): 
+2023-44-12 10:44:15.630 [main] INFO  com.solvd.happyfarm.Main - Enter Chickens Count: 
+2023-44-12 10:44:17.226 [main] INFO  com.solvd.happyfarm.Main - Here are all farm chickens: 2
+2023-44-12 10:44:17.242 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-44-12 10:44:17.243 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-44-12 10:44:17.244 [main] INFO  com.solvd.happyfarm.Main - Enter Cows Count: 
+2023-44-12 10:44:17.692 [main] INFO  com.solvd.happyfarm.Main - Here are all farm cows: 2
+2023-44-12 10:44:17.695 [main] INFO  com.solvd.happyfarm.Main - Cow{milk=Milk{volume=4.5}}
+2023-44-12 10:44:17.695 [main] INFO  com.solvd.happyfarm.Main - Cow{milk=Milk{volume=4.5}}
+2023-44-12 10:44:17.711 [main] INFO  com.solvd.happyfarm.Main - Enter Sheep Count: 
+2023-44-12 10:44:18.268 [main] INFO  com.solvd.happyfarm.Main - Here are all farm cows: 2
+2023-44-12 10:44:18.270 [main] INFO  com.solvd.happyfarm.Main - Sheep{wool=Wool{volume=1.0}}
+2023-44-12 10:44:18.270 [main] INFO  com.solvd.happyfarm.Main - Sheep{wool=Wool{volume=1.0}}
+2023-44-12 10:44:18.271 [main] INFO  com.solvd.happyfarm.Main - All farm animals: 
+ Farm info: 
+ 
+ chickens = [Chicken{egg=Egg{category='D', size=2}}, Chicken{egg=Egg{category='C', size=1}}]
+ cows =[Cow{milk=Milk{volume=4.5}}, Cow{milk=Milk{volume=4.5}}]
+ sheep =[Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}]
+ Products created each day: 
+ eggs =[Egg{category='D', size=2}, Egg{category='C', size=1}]
+ milk =9.0wool =9.0
+2023-44-12 10:44:18.272 [main] INFO  com.solvd.happyfarm.Main - Customer for today: 
+2023-44-12 10:44:20.471 [main] INFO  com.solvd.happyfarm.Main - Enter your name, please: 
+2023-44-12 10:44:52.244 [main] INFO  com.solvd.happyfarm.Main - Where are you from: 
+2023-44-12 10:44:55.255 [main] INFO  com.solvd.happyfarm.Main - Are you regularly (Y or N): 
+2023-51-12 10:51:40.283 [main] INFO  com.solvd.happyfarm.Main - Enter Chickens Count: 
+2023-51-12 10:51:43.134 [main] INFO  com.solvd.happyfarm.Main - Here are all farm chickens: 2
+2023-51-12 10:51:43.153 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-51-12 10:51:43.153 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-51-12 10:51:43.154 [main] INFO  com.solvd.happyfarm.Main - Enter Cows Count: 
+2023-51-12 10:51:49.942 [main] INFO  com.solvd.happyfarm.Main - Here are all farm cows: 2
+2023-51-12 10:51:49.944 [main] INFO  com.solvd.happyfarm.Main - Cow{milk=Milk{volume=4.5}}
+2023-51-12 10:51:49.944 [main] INFO  com.solvd.happyfarm.Main - Cow{milk=Milk{volume=4.5}}
+2023-51-12 10:51:49.960 [main] INFO  com.solvd.happyfarm.Main - Enter Sheep Count: 
+2023-51-12 10:51:54.196 [main] INFO  com.solvd.happyfarm.Main - Here are all farm cows: 3
+2023-51-12 10:51:54.198 [main] INFO  com.solvd.happyfarm.Main - Sheep{wool=Wool{volume=1.0}}
+2023-51-12 10:51:54.199 [main] INFO  com.solvd.happyfarm.Main - Sheep{wool=Wool{volume=1.0}}
+2023-51-12 10:51:54.199 [main] INFO  com.solvd.happyfarm.Main - Sheep{wool=Wool{volume=1.0}}
+2023-51-12 10:51:54.199 [main] INFO  com.solvd.happyfarm.Main - All farm animals: 
+ Farm info: 
+ 
+ chickens = [Chicken{egg=Egg{category='D', size=2}}, Chicken{egg=Egg{category='C', size=1}}]
+ cows =[Cow{milk=Milk{volume=4.5}}, Cow{milk=Milk{volume=4.5}}]
+ sheep =[Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}]
+ Products created each day: 
+ eggs =[Egg{category='D', size=2}, Egg{category='C', size=1}]
+ milk =9.0wool =9.0
+2023-51-12 10:51:54.200 [main] INFO  com.solvd.happyfarm.Main - Customer for today: 
+2023-52-12 10:52:32.541 [main] INFO  com.solvd.happyfarm.Main - Enter your name, please: 
+2023-52-12 10:52:40.381 [main] INFO  com.solvd.happyfarm.Main - Where are you from: 
+2023-52-12 10:52:46.420 [main] INFO  com.solvd.happyfarm.Main - Are you regularly (Y or N): 
+2023-53-12 10:53:25.265 [main] INFO  com.solvd.happyfarm.Main - Enter Chickens Count: 
+2023-53-12 10:53:29.953 [main] INFO  com.solvd.happyfarm.Main - Here are all farm chickens: 2
+2023-53-12 10:53:29.967 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-53-12 10:53:29.967 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-53-12 10:53:29.968 [main] INFO  com.solvd.happyfarm.Main - Enter Cows Count: 
+2023-53-12 10:53:33.006 [main] INFO  com.solvd.happyfarm.Main - Here are all farm cows: 2
+2023-53-12 10:53:33.008 [main] INFO  com.solvd.happyfarm.Main - Cow{milk=Milk{volume=4.5}}
+2023-53-12 10:53:33.008 [main] INFO  com.solvd.happyfarm.Main - Cow{milk=Milk{volume=4.5}}
+2023-53-12 10:53:33.024 [main] INFO  com.solvd.happyfarm.Main - Enter Sheep Count: 
+2023-53-12 10:53:35.448 [main] INFO  com.solvd.happyfarm.Main - Here are all farm cows: 2
+2023-53-12 10:53:35.450 [main] INFO  com.solvd.happyfarm.Main - Sheep{wool=Wool{volume=1.0}}
+2023-53-12 10:53:35.450 [main] INFO  com.solvd.happyfarm.Main - Sheep{wool=Wool{volume=1.0}}
+2023-53-12 10:53:35.452 [main] INFO  com.solvd.happyfarm.Main - All farm animals: 
+ Farm info: 
+ 
+ chickens = [Chicken{egg=Egg{category='D', size=2}}, Chicken{egg=Egg{category='C', size=1}}]
+ cows =[Cow{milk=Milk{volume=4.5}}, Cow{milk=Milk{volume=4.5}}]
+ sheep =[Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}]
+ Products created each day: 
+ eggs =[Egg{category='D', size=2}, Egg{category='C', size=1}]
+ milk =9.0wool =9.0
+2023-53-12 10:53:35.452 [main] INFO  com.solvd.happyfarm.Main - Customer for today: 
+2023-53-12 10:53:39.276 [main] INFO  com.solvd.happyfarm.Main - Enter your name, please: 
+2023-53-12 10:53:43.188 [main] INFO  com.solvd.happyfarm.Main - Where are you from: 
+2023-53-12 10:53:47.591 [main] INFO  com.solvd.happyfarm.Main - Are you regularly (Y or N): 
+2023-53-12 10:53:57.036 [main] INFO  com.solvd.happyfarm.Main - Enter Chickens Count: 
+2023-54-12 10:54:13.964 [main] INFO  com.solvd.happyfarm.Main - Enter Chickens Count: 
+2023-54-12 10:54:19.553 [main] INFO  com.solvd.happyfarm.Main - Here are all farm chickens: 2
+2023-54-12 10:54:19.567 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-54-12 10:54:19.567 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-54-12 10:54:19.568 [main] INFO  com.solvd.happyfarm.Main - Enter Cows Count: 
+2023-54-12 10:54:21.441 [main] INFO  com.solvd.happyfarm.Main - Here are all farm cows: 3
+2023-54-12 10:54:21.443 [main] INFO  com.solvd.happyfarm.Main - Cow{milk=Milk{volume=4.5}}
+2023-54-12 10:54:21.443 [main] INFO  com.solvd.happyfarm.Main - Cow{milk=Milk{volume=4.5}}
+2023-54-12 10:54:21.443 [main] INFO  com.solvd.happyfarm.Main - Cow{milk=Milk{volume=4.5}}
+2023-54-12 10:54:21.453 [main] INFO  com.solvd.happyfarm.Main - Enter Sheep Count: 
+2023-54-12 10:54:23.136 [main] INFO  com.solvd.happyfarm.Main - Here are all farm cows: 2
+2023-54-12 10:54:23.138 [main] INFO  com.solvd.happyfarm.Main - Sheep{wool=Wool{volume=1.0}}
+2023-54-12 10:54:23.138 [main] INFO  com.solvd.happyfarm.Main - Sheep{wool=Wool{volume=1.0}}
+2023-54-12 10:54:23.139 [main] INFO  com.solvd.happyfarm.Main - All farm animals: 
+ Farm info: 
+ 
+ chickens = [Chicken{egg=Egg{category='D', size=2}}, Chicken{egg=Egg{category='C', size=1}}]
+ cows =[Cow{milk=Milk{volume=4.5}}, Cow{milk=Milk{volume=4.5}}, Cow{milk=Milk{volume=4.5}}]
+ sheep =[Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}]
+ Products created each day: 
+ eggs =[Egg{category='D', size=2}, Egg{category='C', size=1}]
+ milk =13.5wool =13.5
+2023-54-12 10:54:23.139 [main] INFO  com.solvd.happyfarm.Main - Customer for today: 
+2023-54-12 10:54:25.378 [main] INFO  com.solvd.happyfarm.Main - Enter your name, please: 
+2023-54-12 10:54:28.903 [main] INFO  com.solvd.happyfarm.Main - Where are you from: 
+2023-54-12 10:54:39.297 [main] INFO  com.solvd.happyfarm.Main - Are you regularly (Y or N): 
+2023-56-12 10:56:11.920 [main] INFO  com.solvd.happyfarm.Main - Enter Chickens Count: 
+2023-56-12 10:56:15.635 [main] INFO  com.solvd.happyfarm.Main - Here are all farm chickens: 2
+2023-56-12 10:56:15.648 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='D', size=2}}
+2023-56-12 10:56:15.648 [main] INFO  com.solvd.happyfarm.Main - Chicken{egg=Egg{category='C', size=1}}
+2023-56-12 10:56:15.649 [main] INFO  com.solvd.happyfarm.Main - Enter Cows Count: 
+2023-56-12 10:56:17.245 [main] INFO  com.solvd.happyfarm.Main - Here are all farm cows: 2
+2023-56-12 10:56:17.246 [main] INFO  com.solvd.happyfarm.Main - Cow{milk=Milk{volume=4.5}}
+2023-56-12 10:56:17.247 [main] INFO  com.solvd.happyfarm.Main - Cow{milk=Milk{volume=4.5}}
+2023-56-12 10:56:17.257 [main] INFO  com.solvd.happyfarm.Main - Enter Sheep Count: 
+2023-56-12 10:56:19.507 [main] INFO  com.solvd.happyfarm.Main - Here are all farm cows: 3
+2023-56-12 10:56:19.509 [main] INFO  com.solvd.happyfarm.Main - Sheep{wool=Wool{volume=1.0}}
+2023-56-12 10:56:19.510 [main] INFO  com.solvd.happyfarm.Main - Sheep{wool=Wool{volume=1.0}}
+2023-56-12 10:56:19.510 [main] INFO  com.solvd.happyfarm.Main - Sheep{wool=Wool{volume=1.0}}
+2023-56-12 10:56:19.512 [main] INFO  com.solvd.happyfarm.Main - All farm animals: 
+ Farm info: 
+ 
+ chickens = [Chicken{egg=Egg{category='D', size=2}}, Chicken{egg=Egg{category='C', size=1}}]
+ cows =[Cow{milk=Milk{volume=4.5}}, Cow{milk=Milk{volume=4.5}}]
+ sheep =[Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}]
+ Products created each day: 
+ eggs =[Egg{category='D', size=2}, Egg{category='C', size=1}]
+ milk =9.0wool =9.0
+2023-56-12 10:56:19.512 [main] INFO  com.solvd.happyfarm.Main - Customer for today: 
+2023-56-12 10:56:21.991 [main] INFO  com.solvd.happyfarm.Main - Enter your name, please: 
+2023-56-12 10:56:26.494 [main] INFO  com.solvd.happyfarm.Main - Where are you from: 
+2023-56-12 10:56:30.569 [main] INFO  com.solvd.happyfarm.Main - Are you regularly (Y or N): 
+2023-22-12 11:22:45.354 [main] INFO  com.solvd.happyfarm.Main - Enter Chickens Count: 
+2023-22-12 11:22:48.022 [main] INFO  com.solvd.happyfarm.Main - Here are all farm chickens: 3
+2023-22-12 11:22:48.034 [main] INFO  com.solvd.happyfarm.Main - Enter Cows Count: 
+2023-22-12 11:22:49.756 [main] INFO  com.solvd.happyfarm.Main - Here are all farm cows: 4
+2023-22-12 11:22:49.767 [main] INFO  com.solvd.happyfarm.Main - Enter Sheep Count: 
+2023-22-12 11:22:52.362 [main] INFO  com.solvd.happyfarm.Main - Here are all farm cows: 4
+2023-22-12 11:22:52.364 [main] INFO  com.solvd.happyfarm.Main - All farm animals: 
+ Farm info: 
+ 
+ chickens = [Chicken{egg=Egg{category='D', size=2}}, Chicken{egg=Egg{category='C', size=1}}, Chicken{egg=Egg{category='D', size=2}}]
+ cows =[Cow{milk=Milk{volume=4.5}}, Cow{milk=Milk{volume=4.5}}, Cow{milk=Milk{volume=4.5}}, Cow{milk=Milk{volume=4.5}}]
+ sheep =[Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}]
+ Products created each day: 
+ eggs =null
+ milk =0.0wool =0.0
+2023-22-12 11:22:52.364 [main] INFO  com.solvd.happyfarm.FarmBuilder - Customer for today: 
+2023-23-12 11:23:24.017 [main] INFO  com.solvd.happyfarm.FarmBuilder - Enter your name, please: 
+2023-23-12 11:23:27.353 [main] INFO  com.solvd.happyfarm.FarmBuilder - Where are you from: 
+2023-23-12 11:23:31.282 [main] INFO  com.solvd.happyfarm.FarmBuilder - Are you regularly (Y or N): 
+2023-23-12 11:23:32.926 [main] INFO  com.solvd.happyfarm.Main - Farm info: 
+ 
+ chickens = [Chicken{egg=Egg{category='D', size=2}}, Chicken{egg=Egg{category='C', size=1}}, Chicken{egg=Egg{category='D', size=2}}]
+ cows =[Cow{milk=Milk{volume=4.5}}, Cow{milk=Milk{volume=4.5}}, Cow{milk=Milk{volume=4.5}}, Cow{milk=Milk{volume=4.5}}]
+ sheep =[Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}]
+ Products created each day: 
+ eggs =null
+ milk =0.0wool =0.0
+2023-44-12 15:44:59.389 [main] INFO  com.solvd.happyfarm.FarmBuilder - Enter budget: 
+2023-45-12 15:45:02.862 [main] INFO  com.solvd.happyfarm.FarmBuilder - Enter Chickens Count: 
+2023-45-12 15:45:06.439 [main] INFO  com.solvd.happyfarm.FarmBuilder - Enter Cows Count: 
+2023-45-12 15:45:13.334 [main] INFO  com.solvd.happyfarm.FarmBuilder - Enter Sheep Count: 
+2023-45-12 15:45:14.440 [main] INFO  com.solvd.happyfarm.FarmBuilder - Enter Cows Count: 
+2023-45-12 15:45:17.205 [main] INFO  com.solvd.happyfarm.Main - All farm animals: 
+ Farm info: 
+ 
+ chickens = [Chicken{egg=Egg{category='D', size=2}}, Chicken{egg=Egg{category='C', size=1}}]
+ cows =[Cow{milk=Milk{volume=4.5}}, Cow{milk=Milk{volume=4.5}}]
+ sheep =[Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}]
+ Products created each day: 
+ eggs =null
+ milk =0.0wool =0.0
+2023-45-12 15:45:17.205 [main] INFO  com.solvd.happyfarm.FarmBuilder - Customer for today: 
+2023-45-12 15:45:40.320 [main] INFO  com.solvd.happyfarm.FarmBuilder - Enter budget: 
+2023-45-12 15:45:45.289 [main] INFO  com.solvd.happyfarm.FarmBuilder - Enter Chickens Count: 
+2023-45-12 15:45:48.109 [main] INFO  com.solvd.happyfarm.FarmBuilder - Enter Cows Count: 
+2023-45-12 15:45:50.728 [main] INFO  com.solvd.happyfarm.FarmBuilder - Enter Sheep Count: 
+2023-45-12 15:45:53.446 [main] INFO  com.solvd.happyfarm.FarmBuilder - Enter Cows Count: 
+2023-46-12 15:46:57.626 [main] INFO  com.solvd.happyfarm.Main - All farm animals: 
+ Farm info: 
+ 
+ chickens = [Chicken{egg=Egg{category='D', size=2}}, Chicken{egg=Egg{category='C', size=1}}]
+ cows =[Cow{milk=Milk{volume=4.5}}, Cow{milk=Milk{volume=4.5}}, Cow{milk=Milk{volume=4.5}}, Cow{milk=Milk{volume=4.5}}]
+ sheep =[Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}]
+ Products created each day: 
+ eggs =null
+ milk =0.0wool =0.0
+2023-46-12 15:46:57.627 [main] INFO  com.solvd.happyfarm.FarmBuilder - Customer for today: 
+2023-49-12 15:49:00.887 [main] INFO  com.solvd.happyfarm.FarmBuilder - Enter your name, please: 
+2023-49-12 15:49:03.768 [main] INFO  com.solvd.happyfarm.FarmBuilder - Where are you from: 
+2023-49-12 15:49:05.192 [main] INFO  com.solvd.happyfarm.FarmBuilder - Are you regularly (Y or N): 
+2023-49-12 15:49:08.235 [main] INFO  com.solvd.happyfarm.Main - Farm info: 
+ 
+ chickens = [Chicken{egg=Egg{category='D', size=2}}, Chicken{egg=Egg{category='C', size=1}}]
+ cows =[Cow{milk=Milk{volume=4.5}}, Cow{milk=Milk{volume=4.5}}, Cow{milk=Milk{volume=4.5}}, Cow{milk=Milk{volume=4.5}}]
+ sheep =[Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}]
+ Products created each day: 
+ eggs =null
+ milk =0.0wool =0.0

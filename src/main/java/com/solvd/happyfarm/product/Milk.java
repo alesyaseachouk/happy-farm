@@ -4,7 +4,7 @@ import com.solvd.happyfarm.price.Price;
 import java.time.LocalDate;
 import java.util.Objects;
 
-public class Milk extends com.solvd.happyfarm.product.Product {
+public class Milk extends Product {
 
     private Double volume;
 

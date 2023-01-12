@@ -10,8 +10,14 @@ public class Chicken extends Animal {
 
     private Egg egg;
 
+
     public Chicken(float weight, boolean isVaccinated, int age, Food food) throws InvalidVaccinationException {
         super(weight, isVaccinated, age, food);
+    }
+
+    public Chicken(float weight, boolean isVaccinated, int age, Food food, Egg egg) throws InvalidVaccinationException {
+        super(weight, isVaccinated, age, food);
+        this.egg = egg;
     }
 
     public Egg getEgg() {
