@@ -14,6 +14,10 @@ public class Cow extends Animal {
         super(weight, isVaccinated, age, food);
     }
 
+    public void deleteMilk (){
+        this.milk=null;
+    }
+
     public Milk getMilk() {
         return milk;
     }

@@ -14,11 +14,6 @@ public abstract class Food {
         this.price = price;
     }
 
-    public Double annualNeeds(){
-        Double annualNeeds = count * 365;
-        return annualNeeds;
-    }
-
     public String getName() {
         return name;
     }
@@ -41,5 +36,10 @@ public abstract class Food {
 
     public void setPrice(Price price) {
         this.price = price;
+    }
+
+    public Double annualNeeds(){
+        Double annualNeeds = count * 365;
+        return annualNeeds;
     }
 }

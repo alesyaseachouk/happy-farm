@@ -15,7 +15,6 @@ import com.solvd.happyfarm.product.Milk;
 import com.solvd.happyfarm.product.Wool;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-
 import java.math.BigDecimal;
 import java.time.LocalDate;
 import java.util.*;
@@ -47,17 +46,31 @@ public class FarmBuilder {
         return chickens;
     }
 
+
+//    public static List<Egg> countEggsDay(List<Chicken> chickens) {
+//
+//        Price priceEgg = new Price(BigDecimal.valueOf(0.2), "BYN");
+//        Egg egg1 = new Egg(LocalDate.of(2022,01,22),LocalDate.of(2022,02,22), priceEgg, CategoryEgg.D, 2);
+//        Egg egg2 = new Egg(LocalDate.of(2022,01,22),LocalDate.of(2022,02,22), priceEgg, CategoryEgg.C, 1);
+//        Price priceEgg1 = new Price(BigDecimal.valueOf(5.5), "BYN");
+//        List<Egg> eggs = new ArrayList<>();
+//        eggs.add(egg1);
+//        eggs.add(egg2);
+//
+//        int eggsDay = chickens.get(0).getEgg().getSize()* chickens.size();
+//
+//        return eggs;
+//    }
+
+
+
     public static List<Cow> cowBuilder(Scanner sc) throws InvalidVaccinationException {
 
         LOGGER.info("Enter Cows Count: ");
         int cowCount = sc.nextInt();
-
         Price priceHay = new Price(BigDecimal.valueOf(0.1), "BYN");
-
         Hay hay = new Hay("Seno", 5.0, priceHay);
-
         Price priceMilk = new Price(BigDecimal.valueOf(0.5), "BYN");
-
         Milk milk1 = new Milk(LocalDate.of(2022,01, 22), LocalDate.of(2022,02,01),priceMilk, 4.5);
         Milk milk2 = new Milk(LocalDate.of(2022,01, 02), LocalDate.of(2022,02,11),priceMilk, 1.0);
 
@@ -87,7 +100,7 @@ public class FarmBuilder {
     }
 
     public static Milk countMilkDay(List<Cow> cows) {
-        double volumeMilkDay = cows.get(0).getMilk().getVolume()*cows.size();
+        double volumeMilkDay = cows.get(0).getMilk().getVolume()* cows.size();
         Price priceMilk = new Price(BigDecimal.valueOf(5.5), "BYN");
         Milk milk = new Milk(LocalDate.now(), LocalDate.of(2022,02,01),priceMilk, volumeMilkDay);
         return milk;
@@ -113,13 +126,13 @@ public class FarmBuilder {
             sheeps.add(sheep);
         }
 
-        Sheep sheep1 = new Sheep(67, true, 2, kombikorm);
-        Sheep sheep2 = new Sheep(85, true, 2, kombikorm);
-        Sheep sheep3 = new Sheep(94, true, 3, kombikorm);
-
-        Map<String, Kombikorm> map = new HashMap<>();
-        map.put("Kombikorm1", kombikorm );
-        map.put("Kombikorm2", kombikorm1);
+//        Sheep sheep1 = new Sheep(67, true, 2, kombikorm);
+//        Sheep sheep2 = new Sheep(85, true, 2, kombikorm);
+//        Sheep sheep3 = new Sheep(94, true, 3, kombikorm);
+//
+//        Map<String, Kombikorm> map = new HashMap<>();
+//        map.put("Kombikorm1", kombikorm );
+//        map.put("Kombikorm2", kombikorm1);
 
 //        List<Sheep> sheeps = new ArrayList<>();
 //
@@ -129,7 +142,6 @@ public class FarmBuilder {
 //        sheeps.forEach(sheep -> sheep.setWool(wool));
 //
 //        annualCostWool(sheeps);
-
         return sheeps;
     }
 
@@ -156,8 +168,8 @@ public class FarmBuilder {
 
         LOGGER.info("Customer for today: ");
         int customerCount =  sc.nextInt();
-        List<Customer> customers= new ArrayList<>();
 
+        List<Customer> customers= new ArrayList<>();
         for (int i=0; i<customerCount; i++){
             Customer customer = new Customer();
             LOGGER.info("Enter your name, please: ");
@@ -168,19 +180,19 @@ public class FarmBuilder {
             customer.setCountry(customerCountry);
             LOGGER.info("Are you regularly (Y or N): ");
             String isRegularly = sc.next();
-            if (isRegularly == "Y") {
+            if (isRegularly.equals("Y")) {
                 customer.setRegularly(true);
             } else {
                 customer.setRegularly(false);
-                customers.add(customer);
             }
+            customers.add(customer);
         }
         return customers;
     }
 
-    public static int budgetBuilder (Scanner sc){
+    public static BigDecimal budgetBuilder (Scanner sc){
         LOGGER.info("Enter budget: ");
-        return sc.nextInt();
+        return BigDecimal.valueOf(sc.nextInt());
     }
 
     @Override

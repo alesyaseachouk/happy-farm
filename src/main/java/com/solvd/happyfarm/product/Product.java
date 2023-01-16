@@ -38,6 +38,4 @@ public abstract class Product {
     public void setPrice(Price price) {
         this.price = price;
     }
-
-
 }
