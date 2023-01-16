@@ -20,6 +20,10 @@ public class Chicken extends Animal {
         this.egg = egg;
     }
 
+    public void deleteEgg (){
+        this.egg=null;
+    }
+
     public Egg getEgg() {
         return egg;
     }

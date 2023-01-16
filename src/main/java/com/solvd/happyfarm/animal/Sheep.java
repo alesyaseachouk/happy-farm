@@ -13,6 +13,10 @@ public class Sheep extends Animal {
         super(weight, isVaccinated, age, food);
     }
 
+    public void deleteWool (){
+        this.wool=null;
+    }
+
     public Wool getWool() {
         return wool;
     }

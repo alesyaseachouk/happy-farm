@@ -5,7 +5,10 @@ import com.solvd.happyfarm.animal.Cow;
 import com.solvd.happyfarm.animal.Sheep;
 import com.solvd.happyfarm.customer.Customer;
 import com.solvd.happyfarm.product.Egg;
+import com.solvd.happyfarm.product.Milk;
 import com.solvd.happyfarm.product.Wool;
+
+import java.math.BigDecimal;
 import java.util.List;
 
 public class Farm {
@@ -15,14 +18,21 @@ public class Farm {
     private List<Sheep> sheeps;
     private List<Customer> customers;
     private List<Egg> eggs;
-    private double milk;
-    private double wool;
-    private int budget;
+    private Milk milk;
+    private Wool wool;
+    private BigDecimal budget;
 
     public Farm() {
     }
 
-    public Farm(List<Chicken> chickens, List<Egg> eggs, List<Cow> cows, List<Sheep> sheeps, double milk, double wool ) {
+    public Farm(List<Chicken> chickens, List<Cow> cows, List<Sheep> sheeps, List<Customer> customers) {
+        this.chickens = chickens;
+        this.cows = cows;
+        this.sheeps = sheeps;
+        this.customers = customers;
+    }
+
+    public Farm(List<Chicken> chickens, List<Egg> eggs, List<Cow> cows, List<Sheep> sheeps, Milk milk, Wool wool ) {
         this.chickens = chickens;
         this.eggs = eggs;
         this.cows = cows;
@@ -71,38 +81,39 @@ public class Farm {
         this.eggs = eggs;
     }
 
-    public Double getMilk() {
+    public Milk getMilk() {
         return milk;
     }
 
-    public void setMilk(Double milk) {
+    public void setMilk(Milk milk) {
         this.milk = milk;
     }
 
-    public double getWools() {
+    public Wool getWool() {
         return wool;
     }
 
-    public void setWools(Wool wools) {
+    public void setWool(Wool wool) {
         this.wool = wool;
     }
 
-    public int getBudget() {
+    public BigDecimal getBudget(){
         return budget;
     }
 
-    public void setBudget(int budget) {
+    public void setBudget(BigDecimal budget) {
         this.budget = budget;
     }
 
     public String toString() {
-        return "Farm info: \n" +
-                " \n chickens = " + chickens +
-        "\n cows =" + cows +
+        return
+                "\n chickens = " + chickens +
+                "\n cows =" + cows +
                 "\n sheep =" + sheeps +
                 "\n Products created each day: " +
                 "\n eggs =" + eggs +
                 "\n milk =" + milk +
-        "wool =" + wool;
+                "\n wool =" + wool;
         }
+
 }
