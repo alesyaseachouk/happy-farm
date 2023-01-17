@@ -19,6 +19,8 @@ import java.math.BigDecimal;
 import java.time.LocalDate;
 import java.util.*;
 
+import static com.solvd.happyfarm.Main.CURRENCY;
+
 public class FarmBuilder {
 
     private static final Logger LOGGER = LogManager.getLogger(FarmBuilder.class);
@@ -46,7 +48,6 @@ public class FarmBuilder {
         return chickens;
     }
 
-
 //    public static List<Egg> countEggsDay(List<Chicken> chickens) {
 //
 //        Price priceEgg = new Price(BigDecimal.valueOf(0.2), "BYN");
@@ -61,8 +62,6 @@ public class FarmBuilder {
 //
 //        return eggs;
 //    }
-
-
 
     public static List<Cow> cowBuilder(Scanner sc) throws InvalidVaccinationException {
 
@@ -99,9 +98,9 @@ public class FarmBuilder {
         return cows;
     }
 
-    public static Milk countMilkDay(List<Cow> cows) {
-        double volumeMilkDay = cows.get(0).getMilk().getVolume()* cows.size();
-        Price priceMilk = new Price(5.5, "BYN");
+    public static Milk countMilkDay(List<Cow> cows, double price) {
+        double volumeMilkDay = cows.stream().mapToDouble( x-> x.getMilk().getVolume()).sum();
+        Price priceMilk = new Price(price, CURRENCY);
         Milk milk = new Milk(LocalDate.now(), LocalDate.of(2022,02,01),priceMilk, volumeMilkDay);
         return milk;
     }
@@ -111,8 +110,8 @@ public class FarmBuilder {
         LOGGER.info("Enter Sheep Count: ");
         int sheepCount = sc.nextInt();
 
-        Price priceKombikorm = new Price(0.2, "BYN");
-        Price priceWool = new Price(0.3, "BYN");
+        Price priceKombikorm = new Price(0.2, CURRENCY);
+        Price priceWool = new Price(0.3, CURRENCY);
 
         Kombikorm kombikorm = new Kombikorm("Petya",2.0, priceKombikorm);
         Kombikorm kombikorm1 = new Kombikorm("Borka", 1.0, priceKombikorm);
@@ -147,7 +146,7 @@ public class FarmBuilder {
 
     public static Wool countWoolDay(List<Sheep> sheep) {
         double volumeWoolDay = sheep.get(0).getWool().getVolume()*sheep.size();
-        Price priceWool = new Price(0.3, "BYN");
+        Price priceWool = new Price(0.3, CURRENCY);
         Wool wool = new Wool(LocalDate.now(), LocalDate.of(2023,02,01), priceWool, (float) volumeWoolDay);
         return wool;
     }

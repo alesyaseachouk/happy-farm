@@ -15,6 +15,7 @@ import static com.solvd.happyfarm.FarmUtils.*;
 public class Main {
 
     private static final Logger LOGGER = LogManager.getLogger(Main.class);
+    public final static String CURRENCY = "BYN";
 
     public static void main(String[] args) throws InvalidVaccinationException {
 
