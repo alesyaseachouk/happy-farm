@@ -3334,3 +3334,234 @@
 2023-37-16 12:37:40.573 [main] INFO  com.solvd.happyfarm.FarmUtils - eggs index1
 2023-37-16 12:37:40.574 [main] INFO  com.solvd.happyfarm.FarmUtils - eggs index0
 2023-37-16 12:37:40.574 [main] INFO  com.solvd.happyfarm.FarmUtils - eggs index-1
+2023-50-17 09:50:38.760 [main] INFO  com.solvd.happyfarm.FarmBuilder - Enter budget: 
+2023-50-17 09:50:40.878 [main] INFO  com.solvd.happyfarm.FarmBuilder - Enter Chickens Count: 
+2023-50-17 09:50:43.346 [main] INFO  com.solvd.happyfarm.FarmBuilder - Enter Cows Count: 
+2023-50-17 09:50:44.999 [main] INFO  com.solvd.happyfarm.FarmBuilder - Enter Sheep Count: 
+2023-50-17 09:50:45.807 [main] INFO  com.solvd.happyfarm.Main - All farm animals: 
+ 
+ chickens = [Chicken{egg=Egg{category='D', size=2}}, Chicken{egg=Egg{category='C', size=1}}, Chicken{egg=Egg{category='D', size=2}}]
+ cows =[Cow{milk=Milk{volume=4.5}}, Cow{milk=Milk{volume=4.5}}]
+ sheep =[Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}]
+ Products created each day: 
+ eggs =[Egg{category='D', size=2}, Egg{category='C', size=1}, Egg{category='D', size=2}]
+ milk =Milk{volume=9.0}
+ wool =Wool{volume=4.0}
+2023-50-17 09:50:45.808 [main] INFO  com.solvd.happyfarm.FarmBuilder - Customer for today: 
+2023-50-17 09:50:51.713 [main] INFO  com.solvd.happyfarm.FarmBuilder - Enter your name, please: 
+2023-50-17 09:50:53.418 [main] INFO  com.solvd.happyfarm.FarmBuilder - Where are you from: 
+2023-50-17 09:50:54.706 [main] INFO  com.solvd.happyfarm.FarmBuilder - Are you regularly (Y or N): 
+2023-50-17 09:50:56.222 [main] INFO  com.solvd.happyfarm.Main - 
+ chickens = [Chicken{egg=Egg{category='D', size=2}}, Chicken{egg=Egg{category='C', size=1}}, Chicken{egg=Egg{category='D', size=2}}]
+ cows =[Cow{milk=Milk{volume=4.5}}, Cow{milk=Milk{volume=4.5}}]
+ sheep =[Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}]
+ Products created each day: 
+ eggs =[Egg{category='D', size=2}, Egg{category='C', size=1}, Egg{category='D', size=2}]
+ milk =Milk{volume=9.0}
+ wool =Wool{volume=4.0}
+2023-50-17 09:50:56.223 [main] INFO  com.solvd.happyfarm.Main - Hello, er how many eggs would you want to buy for today?
+2023-50-17 09:50:56.223 [main] INFO  com.solvd.happyfarm.Main - Enter Milk volume: 
+2023-51-17 09:51:14.550 [main] INFO  com.solvd.happyfarm.Main - You can buy these
+2023-51-17 09:51:14.551 [main] INFO  com.solvd.happyfarm.Main - Enter Wool Volume: 
+2023-51-17 09:51:21.061 [main] INFO  com.solvd.happyfarm.Main - You can buy wool 
+2023-51-17 09:51:21.063 [main] INFO  com.solvd.happyfarm.FarmUtils - Enter Eggs Count: 3
+2023-56-17 09:56:19.070 [main] INFO  com.solvd.happyfarm.FarmUtils - You can buy these 3
+2023-57-17 09:57:33.717 [main] INFO  com.solvd.happyfarm.FarmBuilder - Enter budget: 
+2023-57-17 09:57:35.907 [main] INFO  com.solvd.happyfarm.FarmBuilder - Enter Chickens Count: 
+2023-57-17 09:57:37.501 [main] INFO  com.solvd.happyfarm.FarmBuilder - Enter Cows Count: 
+2023-57-17 09:57:38.637 [main] INFO  com.solvd.happyfarm.FarmBuilder - Enter Sheep Count: 
+2023-57-17 09:57:40.501 [main] INFO  com.solvd.happyfarm.Main - All farm animals: 
+ 
+ chickens = [Chicken{egg=Egg{category='D', size=2}}, Chicken{egg=Egg{category='C', size=1}}]
+ cows =[Cow{milk=Milk{volume=4.5}}, Cow{milk=Milk{volume=4.5}}, Cow{milk=Milk{volume=4.5}}]
+ sheep =[Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}]
+ Products created each day: 
+ eggs =[Egg{category='D', size=2}, Egg{category='C', size=1}]
+ milk =Milk{volume=13.5}
+ wool =Wool{volume=4.0}
+2023-57-17 09:57:40.501 [main] INFO  com.solvd.happyfarm.FarmBuilder - Customer for today: 
+2023-57-17 09:57:42.724 [main] INFO  com.solvd.happyfarm.FarmBuilder - Enter your name, please: 
+2023-57-17 09:57:47.337 [main] INFO  com.solvd.happyfarm.FarmBuilder - Where are you from: 
+2023-57-17 09:57:47.984 [main] INFO  com.solvd.happyfarm.FarmBuilder - Are you regularly (Y or N): 
+2023-57-17 09:57:51.281 [main] INFO  com.solvd.happyfarm.Main - 
+ chickens = [Chicken{egg=Egg{category='D', size=2}}, Chicken{egg=Egg{category='C', size=1}}]
+ cows =[Cow{milk=Milk{volume=4.5}}, Cow{milk=Milk{volume=4.5}}, Cow{milk=Milk{volume=4.5}}]
+ sheep =[Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}]
+ Products created each day: 
+ eggs =[Egg{category='D', size=2}, Egg{category='C', size=1}]
+ milk =Milk{volume=13.5}
+ wool =Wool{volume=4.0}
+2023-57-17 09:57:51.282 [main] INFO  com.solvd.happyfarm.Main - Hello, dhf how many eggs would you want to buy for today?
+2023-57-17 09:57:51.284 [main] INFO  com.solvd.happyfarm.FarmUtils - Enter Eggs Count: 2
+2023-58-17 09:58:03.666 [main] INFO  com.solvd.happyfarm.FarmUtils - You can buy these 2
+2023-19-17 10:19:21.422 [main] INFO  com.solvd.happyfarm.FarmBuilder - Enter budget: 
+2023-19-17 10:19:25.351 [main] INFO  com.solvd.happyfarm.FarmBuilder - Enter Chickens Count: 
+2023-19-17 10:19:27.088 [main] INFO  com.solvd.happyfarm.FarmBuilder - Enter Cows Count: 
+2023-19-17 10:19:28.959 [main] INFO  com.solvd.happyfarm.FarmBuilder - Enter Sheep Count: 
+2023-19-17 10:19:30.443 [main] INFO  com.solvd.happyfarm.Main - All farm animals: 
+ 
+ chickens = [Chicken{egg=Egg{category='D', size=2}}, Chicken{egg=Egg{category='C', size=1}}, Chicken{egg=Egg{category='D', size=2}}]
+ cows =[Cow{milk=Milk{volume=4.5}}, Cow{milk=Milk{volume=4.5}}, Cow{milk=Milk{volume=4.5}}, Cow{milk=Milk{volume=4.5}}]
+ sheep =[Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}]
+ Products created each day: 
+ eggs =[Egg{category='D', size=2}, Egg{category='C', size=1}, Egg{category='D', size=2}]
+ milk =Milk{volume=18.0}
+ wool =Wool{volume=3.0}
+2023-19-17 10:19:30.444 [main] INFO  com.solvd.happyfarm.FarmBuilder - Customer for today: 
+2023-19-17 10:19:34.078 [main] INFO  com.solvd.happyfarm.FarmBuilder - Enter your name, please: 
+2023-19-17 10:19:36.094 [main] INFO  com.solvd.happyfarm.FarmBuilder - Where are you from: 
+2023-19-17 10:19:36.534 [main] INFO  com.solvd.happyfarm.FarmBuilder - Are you regularly (Y or N): 
+2023-19-17 10:19:38.173 [main] INFO  com.solvd.happyfarm.Main - 
+ chickens = [Chicken{egg=Egg{category='D', size=2}}, Chicken{egg=Egg{category='C', size=1}}, Chicken{egg=Egg{category='D', size=2}}]
+ cows =[Cow{milk=Milk{volume=4.5}}, Cow{milk=Milk{volume=4.5}}, Cow{milk=Milk{volume=4.5}}, Cow{milk=Milk{volume=4.5}}]
+ sheep =[Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}]
+ Products created each day: 
+ eggs =[Egg{category='D', size=2}, Egg{category='C', size=1}, Egg{category='D', size=2}]
+ milk =Milk{volume=18.0}
+ wool =Wool{volume=3.0}
+2023-19-17 10:19:38.174 [main] INFO  com.solvd.happyfarm.Main - Hello, df how many eggs would you want to buy for today?
+2023-19-17 10:19:38.175 [main] INFO  com.solvd.happyfarm.FarmUtils - Enter Eggs Count: available3
+2023-19-17 10:19:40.886 [main] INFO  com.solvd.happyfarm.FarmUtils - You can buy these 3
+2023-19-17 10:19:40.886 [main] INFO  com.solvd.happyfarm.Main -  count eggs left: 1
+2023-23-17 10:23:09.484 [main] INFO  com.solvd.happyfarm.FarmBuilder - Enter budget: 
+2023-23-17 10:23:12.238 [main] INFO  com.solvd.happyfarm.FarmBuilder - Enter Chickens Count: 
+2023-23-17 10:23:31.807 [main] INFO  com.solvd.happyfarm.FarmBuilder - Enter Cows Count: 
+2023-23-17 10:23:33.880 [main] INFO  com.solvd.happyfarm.FarmBuilder - Enter Sheep Count: 
+2023-23-17 10:23:34.958 [main] INFO  com.solvd.happyfarm.Main - All farm animals: 
+ 
+ chickens = [Chicken{egg=Egg{category='D', size=2}}, Chicken{egg=Egg{category='C', size=1}}, Chicken{egg=Egg{category='D', size=2}}, Chicken{egg=Egg{category='C', size=1}}, Chicken{egg=Egg{category='D', size=2}}]
+ cows =[Cow{milk=Milk{volume=4.5}}, Cow{milk=Milk{volume=4.5}}]
+ sheep =[Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}]
+ Products created each day: 
+ eggs =[Egg{category='D', size=2}, Egg{category='C', size=1}, Egg{category='D', size=2}, Egg{category='C', size=1}, Egg{category='D', size=2}]
+ milk =Milk{volume=9.0}
+ wool =Wool{volume=3.0}
+2023-23-17 10:23:34.958 [main] INFO  com.solvd.happyfarm.FarmBuilder - Customer for today: 
+2023-23-17 10:23:36.803 [main] INFO  com.solvd.happyfarm.FarmBuilder - Enter your name, please: 
+2023-23-17 10:23:38.529 [main] INFO  com.solvd.happyfarm.FarmBuilder - Where are you from: 
+2023-23-17 10:23:39.401 [main] INFO  com.solvd.happyfarm.FarmBuilder - Are you regularly (Y or N): 
+2023-23-17 10:23:41.150 [main] INFO  com.solvd.happyfarm.Main - 
+ chickens = [Chicken{egg=Egg{category='D', size=2}}, Chicken{egg=Egg{category='C', size=1}}, Chicken{egg=Egg{category='D', size=2}}, Chicken{egg=Egg{category='C', size=1}}, Chicken{egg=Egg{category='D', size=2}}]
+ cows =[Cow{milk=Milk{volume=4.5}}, Cow{milk=Milk{volume=4.5}}]
+ sheep =[Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}]
+ Products created each day: 
+ eggs =[Egg{category='D', size=2}, Egg{category='C', size=1}, Egg{category='D', size=2}, Egg{category='C', size=1}, Egg{category='D', size=2}]
+ milk =Milk{volume=9.0}
+ wool =Wool{volume=3.0}
+2023-23-17 10:23:41.152 [main] INFO  com.solvd.happyfarm.Main - Hello, ef how many eggs would you want to buy for today?
+2023-23-17 10:23:41.153 [main] INFO  com.solvd.happyfarm.FarmUtils - Enter Eggs Count: available5
+2023-24-17 10:24:05.348 [main] INFO  com.solvd.happyfarm.FarmUtils - You can buy these 5
+2023-24-17 10:24:05.349 [main] INFO  com.solvd.happyfarm.Main - eggs count  left: 1
+2023-24-17 10:24:05.349 [main] INFO  com.solvd.happyfarm.FarmUtils - Enter Milk volume: 
+2023-24-17 10:24:12.618 [main] INFO  com.solvd.happyfarm.FarmUtils - You can buy these
+2023-37-17 10:37:23.648 [main] INFO  com.solvd.happyfarm.FarmBuilder - Enter budget: 
+2023-37-17 10:37:28.002 [main] INFO  com.solvd.happyfarm.FarmBuilder - Enter Chickens Count: 
+2023-37-17 10:37:29.725 [main] INFO  com.solvd.happyfarm.FarmBuilder - Enter Cows Count: 
+2023-37-17 10:37:30.382 [main] INFO  com.solvd.happyfarm.FarmBuilder - Enter Sheep Count: 
+2023-37-17 10:37:31.193 [main] INFO  com.solvd.happyfarm.Main - All farm animals: 
+ 
+ chickens = [Chicken{egg=Egg{category='D', size=2}}, Chicken{egg=Egg{category='C', size=1}}, Chicken{egg=Egg{category='D', size=2}}]
+ cows =[Cow{milk=Milk{volume=4.5}}, Cow{milk=Milk{volume=4.5}}]
+ sheep =[Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}]
+ Products created each day: 
+ eggs =[Egg{category='D', size=2}, Egg{category='C', size=1}, Egg{category='D', size=2}]
+ milk =Milk{volume=9.0}
+ wool =Wool{volume=3.0}
+2023-37-17 10:37:31.193 [main] INFO  com.solvd.happyfarm.FarmBuilder - Customer for today: 
+2023-37-17 10:37:33.008 [main] INFO  com.solvd.happyfarm.FarmBuilder - Enter your name, please: 
+2023-37-17 10:37:34.003 [main] INFO  com.solvd.happyfarm.FarmBuilder - Where are you from: 
+2023-37-17 10:37:34.613 [main] INFO  com.solvd.happyfarm.FarmBuilder - Are you regularly (Y or N): 
+2023-37-17 10:37:35.893 [main] INFO  com.solvd.happyfarm.Main - 
+ chickens = [Chicken{egg=Egg{category='D', size=2}}, Chicken{egg=Egg{category='C', size=1}}, Chicken{egg=Egg{category='D', size=2}}]
+ cows =[Cow{milk=Milk{volume=4.5}}, Cow{milk=Milk{volume=4.5}}]
+ sheep =[Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}]
+ Products created each day: 
+ eggs =[Egg{category='D', size=2}, Egg{category='C', size=1}, Egg{category='D', size=2}]
+ milk =Milk{volume=9.0}
+ wool =Wool{volume=3.0}
+2023-37-17 10:37:35.894 [main] INFO  com.solvd.happyfarm.Main - Hello, f how many eggs would you want to buy for today?
+2023-37-17 10:37:35.896 [main] INFO  com.solvd.happyfarm.FarmUtils - Enter Eggs Count: available 3
+2023-37-17 10:37:39.321 [main] INFO  com.solvd.happyfarm.FarmUtils - You can buy these 3
+2023-37-17 10:37:39.321 [main] INFO  com.solvd.happyfarm.Main - eggs count  left: 1
+2023-37-17 10:37:39.321 [main] INFO  com.solvd.happyfarm.FarmUtils - Enter Milk volume: 
+2023-37-17 10:37:41.775 [main] INFO  com.solvd.happyfarm.FarmUtils - You can buy these
+2023-37-17 10:37:41.775 [main] INFO  com.solvd.happyfarm.FarmUtils - Enter Wool Volume: 
+2023-37-17 10:37:45.188 [main] INFO  com.solvd.happyfarm.FarmUtils - You can buy wool 
+2023-37-17 10:37:45.189 [main] INFO  com.solvd.happyfarm.Main - 1.5
+2023-37-17 10:37:45.189 [main] INFO  com.solvd.happyfarm.Main - 0.2
+2023-37-17 10:37:45.190 [main] INFO  com.solvd.happyfarm.Main - 0.6
+2023-37-17 10:37:45.191 [main] INFO  com.solvd.happyfarm.Main - 254.80
+2023-07-17 11:07:31.086 [main] INFO  com.solvd.happyfarm.FarmBuilder - Enter budget: 
+2023-07-17 11:07:35.755 [main] INFO  com.solvd.happyfarm.FarmBuilder - Enter Chickens Count: 
+2023-07-17 11:07:38.181 [main] INFO  com.solvd.happyfarm.FarmBuilder - Enter Cows Count: 
+2023-07-17 11:07:39.021 [main] INFO  com.solvd.happyfarm.FarmBuilder - Enter Sheep Count: 
+2023-07-17 11:07:39.827 [main] INFO  com.solvd.happyfarm.Main - All farm animals: 
+ 
+ chickens = [Chicken{egg=Egg{category='D', size=2}}, Chicken{egg=Egg{category='C', size=1}}, Chicken{egg=Egg{category='D', size=2}}]
+ cows =[Cow{milk=Milk{volume=4.5}}, Cow{milk=Milk{volume=4.5}}, Cow{milk=Milk{volume=4.5}}, Cow{milk=Milk{volume=4.5}}]
+ sheep =[Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}]
+ Products created each day: 
+ eggs =[Egg{category='D', size=2}, Egg{category='C', size=1}, Egg{category='D', size=2}]
+ milk =Milk{volume=18.0}
+ wool =Wool{volume=5.0}
+2023-07-17 11:07:39.827 [main] INFO  com.solvd.happyfarm.FarmBuilder - Customer for today: 
+2023-07-17 11:07:41.895 [main] INFO  com.solvd.happyfarm.FarmBuilder - Enter your name, please: 
+2023-07-17 11:07:43.334 [main] INFO  com.solvd.happyfarm.FarmBuilder - Where are you from: 
+2023-07-17 11:07:46.066 [main] INFO  com.solvd.happyfarm.FarmBuilder - Are you regularly (Y or N): 
+2023-07-17 11:07:49.465 [main] INFO  com.solvd.happyfarm.Main - 
+ chickens = [Chicken{egg=Egg{category='D', size=2}}, Chicken{egg=Egg{category='C', size=1}}, Chicken{egg=Egg{category='D', size=2}}]
+ cows =[Cow{milk=Milk{volume=4.5}}, Cow{milk=Milk{volume=4.5}}, Cow{milk=Milk{volume=4.5}}, Cow{milk=Milk{volume=4.5}}]
+ sheep =[Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}]
+ Products created each day: 
+ eggs =[Egg{category='D', size=2}, Egg{category='C', size=1}, Egg{category='D', size=2}]
+ milk =Milk{volume=18.0}
+ wool =Wool{volume=5.0}
+2023-07-17 11:07:49.466 [main] INFO  com.solvd.happyfarm.Main - Hello, ап how many eggs would you want to buy for today?
+2023-07-17 11:07:49.468 [main] INFO  com.solvd.happyfarm.FarmUtils - Enter Eggs Count: available 3
+2023-07-17 11:07:57.714 [main] INFO  com.solvd.happyfarm.FarmUtils - You can buy these 3
+2023-07-17 11:07:57.714 [main] INFO  com.solvd.happyfarm.Main - eggs count  left: 1
+2023-07-17 11:07:57.715 [main] INFO  com.solvd.happyfarm.FarmUtils - Enter Milk volume: 
+2023-08-17 11:08:07.561 [main] INFO  com.solvd.happyfarm.FarmUtils - You can buy these
+2023-08-17 11:08:07.561 [main] INFO  com.solvd.happyfarm.FarmUtils - Enter Wool Volume: 
+2023-08-17 11:08:11.430 [main] INFO  com.solvd.happyfarm.FarmUtils - You can buy wool 
+2023-08-17 11:08:11.431 [main] INFO  com.solvd.happyfarm.Main - 1.5
+2023-08-17 11:08:11.432 [main] INFO  com.solvd.happyfarm.Main - 0.4
+2023-08-17 11:08:11.432 [main] INFO  com.solvd.happyfarm.Main - 1.0
+2023-08-17 11:08:11.433 [main] INFO  com.solvd.happyfarm.Main - 485.80
+2023-07-17 13:07:41.630 [main] INFO  com.solvd.happyfarm.FarmBuilder - Enter budget: 
+2023-07-17 13:07:43.966 [main] INFO  com.solvd.happyfarm.FarmBuilder - Enter Chickens Count: 
+2023-07-17 13:07:45.814 [main] INFO  com.solvd.happyfarm.FarmBuilder - Enter Cows Count: 
+2023-07-17 13:07:46.208 [main] INFO  com.solvd.happyfarm.FarmBuilder - Enter Sheep Count: 
+2023-07-17 13:07:46.524 [main] INFO  com.solvd.happyfarm.Main - All farm animals: 
+ 
+ chickens = [Chicken{egg=Egg{category='D', size=2}}, Chicken{egg=Egg{category='C', size=1}}]
+ cows =[Cow{milk=Milk{volume=4.5}}, Cow{milk=Milk{volume=4.5}}, Cow{milk=Milk{volume=4.5}}]
+ sheep =[Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}]
+ Products created each day: 
+ eggs =[Egg{category='D', size=2}, Egg{category='C', size=1}]
+ milk =Milk{volume=13.5}
+ wool =Wool{volume=4.0}
+2023-07-17 13:07:46.524 [main] INFO  com.solvd.happyfarm.FarmBuilder - Customer for today: 
+2023-07-17 13:07:54.791 [main] INFO  com.solvd.happyfarm.FarmBuilder - Enter your name, please: 
+2023-07-17 13:07:57.601 [main] INFO  com.solvd.happyfarm.FarmBuilder - Where are you from: 
+2023-07-17 13:07:57.909 [main] INFO  com.solvd.happyfarm.FarmBuilder - Are you regularly (Y or N): 
+2023-08-17 13:08:00.068 [main] INFO  com.solvd.happyfarm.Main - 
+ chickens = [Chicken{egg=Egg{category='D', size=2}}, Chicken{egg=Egg{category='C', size=1}}]
+ cows =[Cow{milk=Milk{volume=4.5}}, Cow{milk=Milk{volume=4.5}}, Cow{milk=Milk{volume=4.5}}]
+ sheep =[Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}, Sheep{wool=Wool{volume=1.0}}]
+ Products created each day: 
+ eggs =[Egg{category='D', size=2}, Egg{category='C', size=1}]
+ milk =Milk{volume=13.5}
+ wool =Wool{volume=4.0}
+2023-08-17 13:08:00.069 [main] INFO  com.solvd.happyfarm.Main - Hello, d how many eggs would you want to buy for today?
+2023-08-17 13:08:00.071 [main] INFO  com.solvd.happyfarm.FarmUtils - Enter Eggs Count: available 2
+2023-08-17 13:08:05.517 [main] INFO  com.solvd.happyfarm.FarmUtils - You can buy these 2
+2023-08-17 13:08:05.518 [main] INFO  com.solvd.happyfarm.Main - eggs count  left: 1
+2023-08-17 13:08:05.518 [main] INFO  com.solvd.happyfarm.FarmUtils - Enter Milk volume: 
+2023-08-17 13:08:07.657 [main] INFO  com.solvd.happyfarm.FarmUtils - You can buy these
+2023-08-17 13:08:07.657 [main] INFO  com.solvd.happyfarm.FarmUtils - Enter Wool Volume: 
+2023-08-17 13:08:08.903 [main] INFO  com.solvd.happyfarm.FarmUtils - You can buy wool 
+2023-08-17 13:08:08.904 [main] INFO  com.solvd.happyfarm.Main - 1.0
+2023-08-17 13:08:08.905 [main] INFO  com.solvd.happyfarm.Main - 0.30000000000000004
+2023-08-17 13:08:08.905 [main] INFO  com.solvd.happyfarm.Main - 0.8
+2023-08-17 13:08:08.906 [main] INFO  com.solvd.happyfarm.Main - 16.4

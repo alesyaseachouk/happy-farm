@@ -20,7 +20,7 @@ public class Farm {
     private List<Egg> eggs;
     private Milk milk;
     private Wool wool;
-    private BigDecimal budget;
+    private double budget;
 
     public Farm() {
     }
@@ -97,11 +97,11 @@ public class Farm {
         this.wool = wool;
     }
 
-    public BigDecimal getBudget(){
+    public double getBudget(){
         return budget;
     }
 
-    public void setBudget(BigDecimal budget) {
+    public void setBudget(double budget) {
         this.budget = budget;
     }
 

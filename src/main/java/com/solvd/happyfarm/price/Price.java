@@ -5,15 +5,15 @@ import java.util.Objects;
 
 public class Price {
 
-    private BigDecimal value;
+    private double value;
     private String currency;
 
-    public Price(BigDecimal value, String currency) {
+    public Price(double value, String currency) {
         this.value = value;
         this.currency = currency;
     }
 
-    public BigDecimal getValue() {
+    public double getValue() {
         return value;
     }
 
@@ -21,7 +21,7 @@ public class Price {
         return currency;
     }
 
-    public void setValue(BigDecimal value) {
+    public void setValue(double value) {
         this.value = value;
     }
 
