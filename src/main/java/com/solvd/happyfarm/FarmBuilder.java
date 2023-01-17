@@ -28,9 +28,9 @@ public class FarmBuilder {
         LOGGER.info("Enter Chickens Count: ");
         int chickenCount = sc.nextInt();
 
-        Price priceCorn = new Price(BigDecimal.valueOf(0.5), "BYN");
+        Price priceCorn = new Price( 0.5, "BYN");
         Corn corn = new Corn("Zarya",0.1, priceCorn);
-        Price priceEgg = new Price(BigDecimal.valueOf(0.2), "BYN");
+        Price priceEgg = new Price(0.2, "BYN");
 
         Egg egg1 = new Egg(LocalDate.of(2022,01,22),LocalDate.of(2022,02,22), priceEgg, CategoryEgg.D, 2);
         Egg egg2 = new Egg(LocalDate.of(2022,01,22),LocalDate.of(2022,02,22), priceEgg, CategoryEgg.C, 1);
@@ -68,9 +68,9 @@ public class FarmBuilder {
 
         LOGGER.info("Enter Cows Count: ");
         int cowCount = sc.nextInt();
-        Price priceHay = new Price(BigDecimal.valueOf(0.1), "BYN");
+        Price priceHay = new Price(0.1, "BYN");
         Hay hay = new Hay("Seno", 5.0, priceHay);
-        Price priceMilk = new Price(BigDecimal.valueOf(0.5), "BYN");
+        Price priceMilk = new Price(0.5, "BYN");
         Milk milk1 = new Milk(LocalDate.of(2022,01, 22), LocalDate.of(2022,02,01),priceMilk, 4.5);
         Milk milk2 = new Milk(LocalDate.of(2022,01, 02), LocalDate.of(2022,02,11),priceMilk, 1.0);
 
@@ -101,7 +101,7 @@ public class FarmBuilder {
 
     public static Milk countMilkDay(List<Cow> cows) {
         double volumeMilkDay = cows.get(0).getMilk().getVolume()* cows.size();
-        Price priceMilk = new Price(BigDecimal.valueOf(5.5), "BYN");
+        Price priceMilk = new Price(5.5, "BYN");
         Milk milk = new Milk(LocalDate.now(), LocalDate.of(2022,02,01),priceMilk, volumeMilkDay);
         return milk;
     }
@@ -111,8 +111,8 @@ public class FarmBuilder {
         LOGGER.info("Enter Sheep Count: ");
         int sheepCount = sc.nextInt();
 
-        Price priceKombikorm = new Price(BigDecimal.valueOf(0.2), "BYN");
-        Price priceWool = new Price(BigDecimal.valueOf(0.3), "BYN");
+        Price priceKombikorm = new Price(0.2, "BYN");
+        Price priceWool = new Price(0.3, "BYN");
 
         Kombikorm kombikorm = new Kombikorm("Petya",2.0, priceKombikorm);
         Kombikorm kombikorm1 = new Kombikorm("Borka", 1.0, priceKombikorm);
@@ -147,7 +147,7 @@ public class FarmBuilder {
 
     public static Wool countWoolDay(List<Sheep> sheep) {
         double volumeWoolDay = sheep.get(0).getWool().getVolume()*sheep.size();
-        Price priceWool = new Price(BigDecimal.valueOf(0.3), "BYN");
+        Price priceWool = new Price(0.3, "BYN");
         Wool wool = new Wool(LocalDate.now(), LocalDate.of(2023,02,01), priceWool, (float) volumeWoolDay);
         return wool;
     }
@@ -160,7 +160,7 @@ public class FarmBuilder {
 
     public static int  setRandomAge(int max)
     {
-        int num = (int)(Math.random() *max);
+        int num = (int)(Math.random()*max);
         return num;
     }
 
@@ -190,9 +190,9 @@ public class FarmBuilder {
         return customers;
     }
 
-    public static BigDecimal budgetBuilder (Scanner sc){
+    public static double budgetBuilder (Scanner sc){
         LOGGER.info("Enter budget: ");
-        return BigDecimal.valueOf(sc.nextInt());
+        return sc.nextInt();
     }
 
     @Override
